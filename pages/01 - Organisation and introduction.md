@@ -21,13 +21,6 @@
 		  collapsed:: true
 			- for individual projects
 			- for group work
-	- Motivations, goals, and expectations
-	  collapsed:: true
-		- {{embed ((643f2336-3f74-4324-bd61-7ddf149acf8b))}}
-	- Groups
-	  collapsed:: true
-		- Group up with others who have similar interests.
-		- Find commonalities, brainstorm, and take notes about your goals for your project and this course.
 - Course overview
 	- [[note-taking]]
 	  collapsed:: true
@@ -63,3 +56,12 @@
 		- Generating and presenting [[results]]
 		  collapsed:: true
 			- [[file:../assets/bad-pie-chart.png]]
+- Motivations, expectations, and goals
+	- What is your background?
+		- previous experience, study programme, field of linguistics, etc.
+	- What kind of a project are you going to work on?
+		- **type**: term paper, BA thesis, Zulassungsarbeit etc.
+		- **domain**: (linguistic) field, supervisor
+		- **deadline**: when are you planning to conduct and finish your project?
+	- Which topic are you planning to write your paper about?
+	- Which data and methods are you planning to use?

@@ -42,19 +42,6 @@
 	- open, workshop-like environment
 	- input from me on selected topics
 	- individual and group work on your projects
-- Motivation and expectations
-  id:: 643f2336-3f74-4324-bd61-7ddf149acf8b
-  collapsed:: true
-	- Please quickly introduce yourself.
-		- What is your background? (Study programme, previous experience etc.)
-		- As part of which module are you takings this course?
-		- What kind of a project are you going to work on?
-		  collapsed:: true
-			- **type**: term paper, BA thesis, Zulassungsarbeit etc.
-			- **domain**: (linguistic) field, supervisor
-			- **deadline**
-		- Which topic are you planning to write your paper about?
-		- Which data and methods are you planning to use?
 - Requirements
   collapsed:: true
 	- active attendance
