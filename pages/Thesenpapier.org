@@ -5,4 +5,3 @@
 ** [[data]] and [[methods]]
 ** [[table of contents]]
 ** [[bibliography]]
-* *deadline* for submission: 7 September 2022

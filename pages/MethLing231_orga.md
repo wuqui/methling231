@@ -5,8 +5,8 @@ public:: false
 	- TODO 01 | orga and intro
 		- TODO prep
 			- DONE make public
-			- DOING update schedule
-			- TODO prep slides
+			- DONE update schedule
+			- DOING prep slides
 		- TODO live
 		- TODO post
 		  collapsed:: true
