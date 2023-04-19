@@ -1,3 +1,4 @@
+- [public graph](https://wuqui.github.io/methling231/)
 - agenda
 	- TODO 01 | orga and intro
 		- TODO prep

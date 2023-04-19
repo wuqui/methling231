@@ -1,3 +1,7 @@
+- Course materials
+  id:: 643f8bfc-4718-417d-a94f-c5d69dd55657
+	- I use [[logseq]] for creating and sharing the course materials.
+	- The materials are available here: https://wuqui.github.io/methling231/.
 - Schedule
   id:: 643f2336-673c-4882-afe2-ede089a86ea0
   collapsed:: true

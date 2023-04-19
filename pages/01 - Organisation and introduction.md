@@ -14,13 +14,7 @@
 	  collapsed:: true
 		- {{embed ((643f2336-673c-4882-afe2-ede089a86ea0))}}
 	- Course materials
-	  collapsed:: true
-		- I use [[logseq]] for creating and sharing the course materials.
-		- I will include all course materials in this repository.
-		- You will be able to add notes and materials, too.
-		  collapsed:: true
-			- for individual projects
-			- for group work
+		- {{embed ((643f8bfc-4718-417d-a94f-c5d69dd55657))}}
 - Course overview
 	- [[note-taking]]
 	  collapsed:: true

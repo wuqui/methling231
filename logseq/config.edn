@@ -345,6 +345,7 @@
  :ui/show-brackets? false
  :feature/enable-timetracking? false
  :feature/enable-whiteboards? true
+ :publishing/all-pages-public? true
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"
