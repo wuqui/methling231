@@ -1,0 +1,8 @@
+* about 3–5 pages (3.000–5.000 characters)
+* contents
+** [[title]]
+** [[abstract]]
+** [[data]] and [[methods]]
+** [[table of contents]]
+** [[bibliography]]
+* *deadline* for submission: 7 September 2022

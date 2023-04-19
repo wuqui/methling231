@@ -1,0 +1,17 @@
+* approaches and basic statistics
+** descriptive statistics vs. inferential statistics
+*** [[../assets/image_1659000393105_0.png]]
+** measures of frequency (presented in charts, bars, pies etc.)
+*** see [[corpus linguistics]]
+** measures of central tendency (mean - median - mode)
+*** [[../assets/image_1659000235522_0.png]]{:height 278, :width 716}
+** normal distribution and standard deviation
+*** [[../assets/image_1659000194146_0.png]]
+** probability (significance score,  null hypothesis)
+* Further resources
+
+Here are some links to videos and websites that may be helpful for getting more detailed information about these and some related statistical issues
+** https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/statistics-intro-mean-median-and-mode
+** https://www.youtube.com/watch?v=I10q6fjPxJ0
+** https://www.mathsisfun.com/data/standard-deviation.html
+** https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php

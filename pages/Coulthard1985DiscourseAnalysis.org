@@ -1,0 +1,11 @@
+* [[book]] on [[discourse analysis]]
+* [[course bibliography]]
+** Coulthard, M. (1985), /An introduction to discourse analysis/, London.
+* example analysis
+:PROPERTIES:
+:id: 62e25131-9535-4c8a-8be4-6a1d0a996c30
+:END:
+** [[../assets/image_1658999095056_0.png]]
+:PROPERTIES:
+:id: 62e2516d-31f1-495f-8995-8059e37c5052
+:END:

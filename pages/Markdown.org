@@ -1,0 +1,17 @@
+* Guide: https://www.markdownguide.org/
+* Editor for starters: [[https://hackmd.io/][HackMD]]
+* Syntax
+
+#+begin_src markdown
+## Heading 1.1
+
+Lists:
+
+- bullet
+- bullet
+
+Markup:
+
+italics_, __bold__, `code`
+```
+#+end_src

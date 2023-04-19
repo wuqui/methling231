@@ -1,0 +1,8 @@
+- agenda
+	- TODO 01 | orga and intro
+		- TODO prep
+			- DOING make public
+			- TODO prep slides
+		- TODO live
+		- TODO post
+			- TODO convert `org` to `md`

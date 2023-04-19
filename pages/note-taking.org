@@ -1,0 +1,28 @@
+* [[plain text]]
+:PROPERTIES:
+:heading: true
+:END:
+* Networked notes
+:PROPERTIES:
+:heading: true
+:END:
+** the principle
+:PROPERTIES:
+:heading: true
+:END:
+*** [[mental lexicon]]
+[[file:../assets/mental-lexicon.png]]
+*** notes
+[[file:../assets/networked-notes.png]]
+** [[Zettelkasten]] method
+:PROPERTIES:
+:heading: true
+:END:
+** Overview of tools
+:PROPERTIES:
+:heading: true
+:END:
+*** paid: [[https://roamresearch.com/][Roam Research]]
+*** recommended free options
+**** [[https://obsidian.md/][Obsidian]]
+**** [[logseq]]

@@ -1,0 +1,8 @@
+* housekeeping
+:PROPERTIES:
+:collapsed: true
+:END:
+** ((62794aef-b922-4005-b58d-ee463cb6dbf0))
+** ((62861e92-1e71-492a-9a0c-6aced3187e36)) change
+* managing [[references]]
+* [[research questions and hypotheses]]

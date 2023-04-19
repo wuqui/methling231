@@ -1,0 +1,9 @@
+* [[book]] on [[research methods]]
+** available on
+*** [[Google Books]]
+*** [[Universitätsbibliothek]]
+** [[course bibliography]]
+:PROPERTIES:
+:id: 6287cf78-b70f-4f7c-a8aa-58ecbf14c78d
+:END:
+*** Litosseliti, Lia, ed., (2010), Research Methods in Linguistics, London: Continuum Press.
