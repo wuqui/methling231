@@ -1,4 +1,5 @@
-- Organisation
+- # organisation
+  collapsed:: true
 	- registration
 	- Modulprüfung
 	- requirements
@@ -7,32 +8,45 @@
 	- schedule
 	  collapsed:: true
 		- {{embed ((643f2336-673c-4882-afe2-ede089a86ea0))}}
-- course overview
-- [[note-taking]]
+- # course overview
+	- {{embed ((643f8370-b798-4ba7-be84-df4f12efc6ab))}}
+- # [[note-taking]]
 	- principles and tools
-		- [[plain text]]
-		- Networked notes
+		- plain text
+		  collapsed:: true
+			- {{embed [[plain text]]}}
+		- networked notes
 			- the principle
+			  collapsed:: true
 				- [[mental lexicon]]
-					- [[file:../assets/mental-lexicon.png]]
-				- notes
-					- [[file:../assets/networked-notes.png]]
-				- [[Zettelkasten]] method
+				  collapsed:: true
+					- ![](../assets/mental-lexicon.png)
+				- networked notes
+					- ![](../assets/networked-notes.png)
+			- [[Zettelkasten]] method
+			  collapsed:: true
+				- ![](../assets/zettelkasten-method.png)
+				- **origin**: sociologist Niklas Luhmann
+				- **book**: [[Ahrens2017ZettelkastenPrinzipErfolgreich]]
+				- **website**: https://zettelkasten.de/
 			- selected tools
+			  collapsed:: true
 				- free options (recommended)
 					- [[logseq]]
 					- [Obsidian](https://obsidian.md/)
 				- paid: [Notion](https://www.notion.so/)
 	- [[hands-on]]: taking notes using [[logseq]]
+	  collapsed:: true
 		- TODO install logseq
 		- TODO create a new graph
-		- TODO use the [template]([[student page]]) for your personal page
-			- TODO download it
-			- TODO copy to the `pages` folder in your graph directory
+		- TODO start with the [template]([[student page]]) for your personal page
+		  collapsed:: true
+			- TODO download `student page.md` from [this](https://raw.githubusercontent.com/wuqui/methling231/main/pages/student%20page.md) link
+			- TODO copy it the `pages` folder in your graph directory
 			- TODO name it using your second name + first name’s initial, e.g. `WuerschingerQ`
 		- TODO fill in the template
+		  collapsed:: true
 			- TODO answer the questions provided
 			- TODO link to important concepts and keywords (e.g. [[corpus linguistics]], [[Twitter]])
-		- TODO upload your personal page to our shared folder on [[LRZ Sync and Share]]:
-			- link: https://syncandshare.lrz.de/getlink/fiNpRN4FB9181jt53gvaxB/
+		- TODO upload your personal page to our shared folder [here](https://syncandshare.lrz.de/getlink/fiNpRN4FB9181jt53gvaxB/) on [[LRZ Sync and Share]]
 		-

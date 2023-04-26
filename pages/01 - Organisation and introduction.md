@@ -19,15 +19,17 @@
 	  collapsed:: true
 		- {{embed ((643f2336-673c-4882-afe2-ede089a86ea0))}}
 - # Course overview
-  collapsed:: true
+  id:: 643f8370-b798-4ba7-be84-df4f12efc6ab
 	- [[note-taking]]
 	  collapsed:: true
 		- the principle of networked notes
-			- {{embed ((643f1b0f-deea-46d1-adc1-c8f2443661bc))}}
 		- Using [[logseq]]
+		  collapsed:: true
 			- a knowledge graph
+			  collapsed:: true
 				- ![image.png](../assets/image_1681888959901_0.png)
 			- taking notes on [[references]]
+			  collapsed:: true
 				- ![logseq-book-notes.png](../assets/logseq-book-notes_1681888723568_0.png)
 	- [[research questions and hypotheses]]
 	  collapsed:: true
@@ -52,8 +54,10 @@
 		- [[corpora]]
 		  collapsed:: true
 			- [[Sketch Engine]]
+			  collapsed:: true
 				- ![image.png](../assets/image_1681889582981_0.png)
 			- [[english-corpora.org]]
+			  collapsed:: true
 				- ![](../assets/coca.png)
 		- [questionnaires]([[questionnaire]])
 		  collapsed:: true
@@ -61,6 +65,7 @@
 	- [[data analysis]]
 	  collapsed:: true
 		- using [[Microsoft Excel]]
+		  collapsed:: true
 			- using [[tables]]
 			  collapsed:: true
 				- ![https://i.ytimg.com/vi/hb2JVAa4CTM/maxresdefault.jpg](https://i.ytimg.com/vi/hb2JVAa4CTM/maxresdefault.jpg)
