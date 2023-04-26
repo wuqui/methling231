@@ -1,6 +1,5 @@
 - # Organisation
 	- Course materials
-	  collapsed:: true
 		- {{embed ((643f8bfc-4718-417d-a94f-c5d69dd55657))}}
 	- Registration
 	  collapsed:: true
@@ -20,6 +19,7 @@
 	  collapsed:: true
 		- {{embed ((643f2336-673c-4882-afe2-ede089a86ea0))}}
 - # Course overview
+  collapsed:: true
 	- [[note-taking]]
 	  collapsed:: true
 		- the principle of networked notes
@@ -44,7 +44,7 @@
 	- [[presenting]]
 	  collapsed:: true
 		- ![](../assets/bad-presentation-slide.png)
-	- [[data]] and [[methods]]
+	- linguistic [[data]] and [[methods]]
 	  collapsed:: true
 		- [[dictionaries]]
 		  collapsed:: true
@@ -78,8 +78,17 @@
 	  collapsed:: true
 		- previous experience, study programme, field of linguistics, etc.
 	- What kind of a project are you going to work on?
-	  collapsed:: true
 		- **type**: term paper, BA thesis, Zulassungsarbeit etc.
+		  collapsed:: true
+			- [[Modulprüfung/Seminar]]
+				- Linguistic landscapes
+					- Uli Krischke
+				- Sociolinguistics
+					- Laura Hahn
+				- Online pragmatics
+					- Jenny Arendholz
+				- Etymology
+					- Ellen Danielewicz
 		- **domain**: (linguistic) field, supervisor
 		- **deadline**: when are you planning to conduct and finish your project?
 	- Which topic are you planning to write your paper about?

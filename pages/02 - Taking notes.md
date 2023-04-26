@@ -1,0 +1,34 @@
+- Organisation
+	- registration
+	- Modulprüfung
+	- requirements
+	  collapsed:: true
+		- {{embed ((643f9161-7138-4163-b0f8-3d4062c3d0a2))}}
+	- schedule
+	  collapsed:: true
+		- {{embed ((643f2336-673c-4882-afe2-ede089a86ea0))}}
+- course overview
+- [[note-taking]]
+	- principles and tools
+		- [[plain text]]
+		- Networked notes
+			- the principle
+				- [[mental lexicon]]
+					- [[file:../assets/mental-lexicon.png]]
+				- notes
+					- [[file:../assets/networked-notes.png]]
+				- [[Zettelkasten]] method
+			- selected tools
+				- free options (recommended)
+					- [[logseq]]
+					- [Obsidian](https://obsidian.md/)
+				- paid: [Notion](https://www.notion.so/)
+	- [[hands-on]]: taking notes using [[logseq]]
+		- TODO install logseq
+		- TODO use the [template]([[student page]]) for your personal page
+			- TODO download it from [[LRZ Sync and Share]]:
+		- TODO name it using your second name + first name’s initial, e.g. `WuerschingerQ`
+		- TODO fill in the template
+		- TODO upload your personal page to our shared folder on [[LRZ Sync and Share]]:
+			- link: https://syncandshare.lrz.de/getlink/fiNpRN4FB9181jt53gvaxB/
+		-

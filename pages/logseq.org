@@ -51,7 +51,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-We tried in the [[02 - Taking notes]] session, but it did't work.
+We tried in the [[02 - note-taking]] session, but it did't work.
 * Syntax
 :PROPERTIES:
 :heading: true

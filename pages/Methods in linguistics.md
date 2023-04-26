@@ -1,52 +1,25 @@
-- Course materials
+- course materials
   id:: 643f8bfc-4718-417d-a94f-c5d69dd55657
 	- I use [[logseq]] for creating and sharing the course materials.
 	- The materials are available here: https://wuqui.github.io/methling231/.
 - schedule
   id:: 643f2336-673c-4882-afe2-ede089a86ea0
-  collapsed:: true
-	- 19.04.
-	  collapsed:: true
-		- [organisation and introduction]([[01 - Organisation and introduction]])
-	- 26.04. 
-	  collapsed:: true
-		- note-taking
-	- 03.05. 
-	  collapsed:: true
-		- research questions and hypotheses
-	- 10.05. 
-	  collapsed:: true
-		- research questions and hypotheses
-	- 17.05. 
-	  collapsed:: true
-		- reference management
-	- 24.05. 
-	  collapsed:: true
-		- reference management
-	- 31.05. 
-	  collapsed:: true
-		- reading
-	- 07.06. 
-	  collapsed:: true
-		- linguistic methods
-	- 14.06. 
-	  collapsed:: true
-		- linguistic methods
-	- 21.06. 
-	  collapsed:: true
-		- linguistic methods
-	- 28.06. 
-	  collapsed:: true
-		- data analysis
-	- 05.07. 
-	  collapsed:: true
-		- data analysis
-	- 12.07. 
-	  collapsed:: true
-		- writing
-	- 19.07. 
-	  collapsed:: true
-		- wrap-up
+	- | Date   | Topic                                  |
+	  		|:------:|:---------------------------------------|
+	  		| 19.04. | [[01 - Organisation and introduction]] |
+	  		| 26.04. | [[02 - Taking notes]]                  |
+	  		| 03.05. | research questions and hypotheses      |
+	  		| 10.05. | research questions and hypotheses      |
+	  		| 17.05. | reference management                   |
+	  		| 24.05. | reference management                   |
+	  		| 31.05. | reading                                |
+	  		| 07.06. | corpus linguistics                     |
+	  		| 14.06. | corpus linguistics                     |
+	  		| 21.06. | questionnairs & interviews             |
+	  		| 28.06. | analysing data                         |
+	  		| 05.07. | analysing data                         |
+	  		| 12.07. | writing                                |
+	  		| 19.07. | wrap-up                                |
 - course description
   id:: 643f2336-49a4-4364-b906-c9632e169d1a
   collapsed:: true
@@ -56,10 +29,47 @@
 		- identifying and narrowing a [[topic]]
 		- developing and refining [[research questions and hypotheses]]
 		- finding and managing background information and [[references]]
+		  collapsed:: true
+			- [[Zotero]]
+			- [[OPAC]]: course by [[Universitätsbibliothek]]
 		- effective and sustainable [[note-taking]]
 		- referencing [literature]([[references]]) and avoiding plagiarism
 		- collecting and analysing [[data]] using various [[methods]] (e.g. [[corpus linguistics]], [questionnaires]([[questionnaire]]))
+		  collapsed:: true
+			- [[WEIRD people]]
+			  collapsed:: true
+				- Western
+				- educated
+				- industrialized
+				- rich
+				- democratic
+			- [[corpus compilation]]
+				- using [[Sketch Engine]]
+				- based on [[spoken language]]
+				  collapsed:: true
+					- transcription using [[Whisper AI]]
+			- [[qualitative approach]]
+			- [[interviews]]
+			- [[accent]] and [[dialect]]
+			  collapsed:: true
+				- [[social media]]
+					- [[Jack Grieve]]: [[regional variation]] in [[British English]] on [[Twitter]]
+			- [[podcasts]]
+				- ‘konzeptionelle Schriftlichkeit/Mündlichkeit’ (Koch/Österreicher)
+			- [[IPA transcription]]
+				- [[dictionary]]: Cambridge Dictionary *English Pronunciation Dictionary* (EPD)
+				- SIL keyboard
+				- /jes ðɛʀ ɪs/
 		- reporting results and academic [[writing]]
+		  collapsed:: true
+			- [[tools]]
+				- [[Grammarly]]
+				- [[LanguageTool]]
+		- using [[Artificial Intelligence]] ([[Large Language Models]])
+		  collapsed:: true
+			- models
+				- [[ChatGPT]]
+				- [[Open Assistant]]
 	- For every topic, I will provide basic material and questions for discussion.
 	- We will work on and discuss your project ideas, and you will have the chance to get constructive feedback on your projects.
 	- We will have weekly sessions in person during regular course time.
@@ -71,7 +81,6 @@
 	- individual and group work on your projects
 - requirements
   id:: 643f9161-7138-4163-b0f8-3d4062c3d0a2
-  collapsed:: true
 	- active attendance
 	- writing a research proposal
 		- {{embed [[Thesenpapier]]}}

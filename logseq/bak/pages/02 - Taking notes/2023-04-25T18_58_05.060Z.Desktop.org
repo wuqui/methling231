@@ -1,0 +1,28 @@
+* [[sessions]]
+* Housekeeping
+:PROPERTIES:
+:heading: true
+:END:
+** Schedule
+:PROPERTIES:
+:END:
+*** {{embed ((62861e92-1e71-492a-9a0c-6aced3187e36))}}
+:PROPERTIES:
+:collapsed: true
+:END:
+** Requirements
+:PROPERTIES:
+:END:
+*** {{embed ((6287d6b6-5f49-4837-809e-5f35ee6e2356))}}
+** [[Modulprüfung]]
+:PROPERTIES:
+:collapsed: true
+:END:
+* ((6287d325-2847-41a8-ad0f-39fc279a63f9))
+:PROPERTIES:
+:heading: true
+:END:
+* [[note-taking][Taking notes]]
+:PROPERTIES:
+:heading: true
+:END:
