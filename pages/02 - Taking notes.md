@@ -25,10 +25,14 @@
 				- paid: [Notion](https://www.notion.so/)
 	- [[hands-on]]: taking notes using [[logseq]]
 		- TODO install logseq
+		- TODO create a new graph
 		- TODO use the [template]([[student page]]) for your personal page
-			- TODO download it from [[LRZ Sync and Share]]:
-		- TODO name it using your second name + first name’s initial, e.g. `WuerschingerQ`
+			- TODO download it
+			- TODO copy to the `pages` folder in your graph directory
+			- TODO name it using your second name + first name’s initial, e.g. `WuerschingerQ`
 		- TODO fill in the template
+			- TODO answer the questions provided
+			- TODO link to important concepts and keywords (e.g. [[corpus linguistics]], [[Twitter]])
 		- TODO upload your personal page to our shared folder on [[LRZ Sync and Share]]:
 			- link: https://syncandshare.lrz.de/getlink/fiNpRN4FB9181jt53gvaxB/
 		-
