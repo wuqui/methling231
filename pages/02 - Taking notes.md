@@ -1,13 +1,11 @@
 - # organisation
-  collapsed:: true
 	- registration
+	  collapsed:: true
+		- {{embed ((643f815f-94c1-4baf-b4da-4dfbc8a14e46))}}
 	- Modulprüfung
 	- requirements
 	  collapsed:: true
 		- {{embed ((643f9161-7138-4163-b0f8-3d4062c3d0a2))}}
-	- schedule
-	  collapsed:: true
-		- {{embed ((643f2336-673c-4882-afe2-ede089a86ea0))}}
 - # course overview
 	- {{embed ((643f8370-b798-4ba7-be84-df4f12efc6ab))}}
 - # [[note-taking]]
@@ -16,12 +14,14 @@
 		  collapsed:: true
 			- {{embed [[plain text]]}}
 		- networked notes
+		  collapsed:: true
 			- the principle
 			  collapsed:: true
 				- [[mental lexicon]]
 				  collapsed:: true
 					- ![](../assets/mental-lexicon.png)
 				- networked notes
+				  collapsed:: true
 					- ![](../assets/networked-notes.png)
 			- [[Zettelkasten]] method
 			  collapsed:: true
@@ -32,6 +32,7 @@
 			- selected tools
 			  collapsed:: true
 				- free options (recommended)
+				  collapsed:: true
 					- [[logseq]]
 					- [Obsidian](https://obsidian.md/)
 				- paid: [Notion](https://www.notion.so/)
