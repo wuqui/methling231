@@ -2,7 +2,7 @@
 	- registration
 	  collapsed:: true
 		- {{embed ((643f815f-94c1-4baf-b4da-4dfbc8a14e46))}}
-	- Modulprüfung
+	- [[Modulprüfung]]
 	- requirements
 	  collapsed:: true
 		- {{embed ((643f9161-7138-4163-b0f8-3d4062c3d0a2))}}
@@ -37,8 +37,7 @@
 					- [Obsidian](https://obsidian.md/)
 				- paid: [Notion](https://www.notion.so/)
 	- [[hands-on]]: taking notes using [[logseq]]
-	  collapsed:: true
-		- TODO install logseq
+		- TODO install logseq from their [website](https://logseq.com/)
 		- TODO create a new graph
 		- TODO start with the [template]([[student page]]) for your personal page
 		  collapsed:: true
