@@ -65,7 +65,6 @@
 * Citing references
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 ** Ask the person marking your paper which styles you can use.
 ** guides
@@ -83,7 +82,10 @@
 :id: 629899b2-7d3a-4f49-9fa7-a998f23d7462
 :END:
 *** usually you should use an author-date format
-**** e.g. (Schmid 2016: 23)
+**** e.g. “Here’s an interesting quote.” (Schmid 2020)
+**** styles
+***** Chicago author-year
+***** [[Stilblatt]]
 ** bibliography
 :PROPERTIES:
 :heading: true

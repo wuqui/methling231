@@ -1,0 +1,5 @@
+* Zettelkasten method
+  [[file:../assets/zettelkasten-method.png]]
+** **origin**: sociologist Niklas Luhmann
+** **book**: Ahrens
+** **website**: https://zettelkasten.de/

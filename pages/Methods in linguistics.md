@@ -81,7 +81,6 @@
 	- individual and group work on your projects
 - # requirements
   id:: 643f9161-7138-4163-b0f8-3d4062c3d0a2
-  collapsed:: true
 	- active attendance
 	- writing a research proposal
 		- {{embed [[Thesenpapier]]}}

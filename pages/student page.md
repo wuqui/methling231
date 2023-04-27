@@ -1,6 +1,6 @@
 - What do I want to learn about in this course?
 - Which project do I want to apply the methods to?
-	- What is the paper for?
+   - What is the paper for?
 		- term paper: for which course?
 			- course topic?
 			- course lecturer?

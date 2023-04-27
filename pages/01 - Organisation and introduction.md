@@ -22,15 +22,16 @@
 		- {{embed ((643f2336-673c-4882-afe2-ede089a86ea0))}}
 - # Course overview
   id:: 643f8370-b798-4ba7-be84-df4f12efc6ab
+  collapsed:: true
 	- [[note-taking]]
 	  collapsed:: true
 		- the principle of networked notes
 		- Using [[logseq]]
+		  collapsed:: true
 			- a knowledge graph
 			  collapsed:: true
 				- ![image.png](../assets/image_1681888959901_0.png)
 			- taking notes on [[references]]
-			  collapsed:: true
 				- ![logseq-book-notes.png](../assets/logseq-book-notes_1681888723568_0.png)
 	- [[research questions and hypotheses]]
 	  collapsed:: true
@@ -43,7 +44,11 @@
 		- ![](../assets/gantt-chart.png)
 	- [[reading]] and [[writing]]
 	  collapsed:: true
-		- ![](../assets/writing-process.png)
+		- [[writing]]
+			- ![](../assets/writing-process.png)
+			- [[tools]]
+				- [[Microsoft Word]]
+				- [[Quarto]]
 	- [[presenting]]
 	  collapsed:: true
 		- ![](../assets/bad-presentation-slide.png)
@@ -51,14 +56,20 @@
 	  collapsed:: true
 		- [[dictionaries]]
 		  collapsed:: true
-			- ![](../assets/oed.png)
+			- [[Urban Dictionary]]
+			- [[Wiktionary]]
+			- [[OED]]
+				- ![](../assets/oed.png)
+					- [[etymology]]
+					- [[language contact]]
+					- [[lexicography]]
+					- [[IPA transcription]]
 		- [[corpora]]
 		  collapsed:: true
 			- [[Sketch Engine]]
 			  collapsed:: true
 				- ![image.png](../assets/image_1681889582981_0.png)
 			- [[english-corpora.org]]
-			  collapsed:: true
 				- ![](../assets/coca.png)
 		- [questionnaires]([[questionnaire]])
 		  collapsed:: true
@@ -77,7 +88,7 @@
 				- ![image.png](../assets/image_1681889836156_0.png)
 	- presenting [[results]]
 	  collapsed:: true
-		- ![](../assets/bad-pie-chart.png)
+		- ![bad-pie-chart.png](../assets/bad-pie-chart.png)
 - # Motivations, expectations, and goals
 	- What is your background?
 	  collapsed:: true
