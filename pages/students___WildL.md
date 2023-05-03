@@ -1,0 +1,22 @@
+- What do I want to learn about in this course?
+	- how to find a good RQ, how to analyse quantitative data (in [Excel]([[Microsoft Excel]]) maybe), make effective [graphs]([[visualisation]])
+- Which project do I want to apply the methods to?
+	- A term paper on "Ethno-cultural stereotypes in linguistic landscapes"
+	- What is the paper for?
+	- term paper: for which [course]([[course]])?
+		- The course "[Linguistic landscapes]([[Linguistic Landscapes (Course)]])"
+	- course topic?
+		- Introduction to linguistic landscapes (referring to written language in public spaces like street signs, billboards, and shop fronts), with global (mostly anglophone) examples
+	- course [lecturer]([[lecturer]])?
+		- Dr. [Ulrike Krischke]([[Ulrike Krischke]])
+	- thesis: BA, MA?
+	- supervisor?
+- Which [topic]([[topic]]) (area) do I want to work on?
+	- Apart from Linguistic landscapes (which includes sociolinguistic, semiology etc.),
+	- I am interested in [Corpuslinguistic]([[corpus linguistics]]) and [Phonology]([[phonology]])
+- Which [research questions]([[research questions]]) and [hypothesis]([[hypotheses]]) do I want to work on?
+	- Still unsure
+- Which [data]([[data]]) could I use?
+	- [Photographs]([[photos]]) / diachronic data as in old photographs, inscriptions, paintings, textiles
+- Which [methods]([[methods]]) could I use?
+	- [qualitative analysis]([[qualitative approach]]) of the photographs?

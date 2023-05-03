@@ -1,0 +1,29 @@
+- What do I want to learn about in this course?
+	- Different research methods - how to professionally structure my work
+- Which project do I want to apply the methods to?
+	- My [Linguistic Landscapes]([[Linguistic Landscapes (Course)]]) course and, eventually,
+	- my [Bachelors thesis]([[BA thesis]]) (also smaller fun/side projects)
+- What is the paper for?
+	- [term paper]([[term paper]])
+- for which [course]([[course]])?
+	- BA WP 13.1 [Linguistic Landscapes]([[Linguistic Landscapes (Course)]]) (might be difficult because data is often analysed qualitatively, less quantitative work)
+		- course topic? Linguistic Landscapes - representations of (mostly written) language in the public space (often urban)
+	- course lecturer? Dr. [[Ulrike Krischke]]
+	- thesis: BA, MA? n/a
+		- supervisor? n/a
+- Which topic (area) do I want to work on?
+	- Language use in South Africa - either how pervasive Afrikaans and Bantu languages and/or English are in the linguistic landscape - which domains/top-down/bottom-up flow OR (not as part of any course) lexical items unique to South African English/where they come from
+- Which [research questions]([[research questions]]) and [hypothesis]([[hypotheses]])h do I want to work on?
+	- How pervasive is the use of Bantu languages/Afrikaans/English in areas, where speakers of this language are in the minority?
+	- What are potential reasons for the lack of/abundance of signs in these languages? -> what does the data imply about the status of the language/is this mirrored in public discussions on language or questionnaire/interview data?
+	- OR Which lexical items are unique to South African English?
+	- What origin do these items have/if they are loanwords, which language do they originate from?
+- Which [data]([[data]]) could I use?
+	- [Fotos]([[photos]]) and [[Google Street View]] images of signs in the Western Cape
+	- potentially [corpus data]([[corpora]])? don't know whether there is a corpus for South African English; maybe [create my own little corpus]([[corpus compilation]]) (also using interviews/questionnaires; perhaps short form content from South African creators)
+- Which [methods]([[methods]]) could I use?
+	- [corpus]([[corpora]])
+	- [questionnaires]([[questionnaires]])
+	- [interviews]([[interviews]])
+	- [qualitative analysis]([[qualitative approach]])
+	- research (historical, political, ... factors)

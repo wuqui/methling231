@@ -1,0 +1,23 @@
+- What do I want to learn about in this course?
+	- I would like to learn how to work with tools like [logseq]([[logseq]]) and how to work with [corpora]([[corpora]]).
+- Which project do I want to apply the methods to?
+	- What is the paper for?
+		- It‘s meant as a term paper for the parallel course this semester.
+	- term paper: for which [course]([[course]])?
+		- [Linguistic Landscapes]([[Linguistic Landscapes (Course)]])
+	- course topic?
+	- course lecturer?
+		- Dr [Ulrike Krischke]([[Ulrike Krischke]])
+	- thesis: BA, MA?
+	- supervisor?
+- Which [topic]([[topic]]) (area) do I want to work on?
+	- Policy and ideology: Language in the public space (Waldram)
+	- This is about how the political developments in Waldram, a part of Wolfratshausen, have influenced the naming of streets. (case study)
+- Which [research questions]([[research questions]]) and [hypothesis]([[hypotheses]]) do I want to work on?
+	- During the DP time in Waldram, streets were renamed using references to the USA. However, Jewish people lived there. How did Hebrew and Yiddish as well as their cultural-historical background influence the naming of the streets?
+- Which [data]([[data]]) could I use?
+	- the city [archives]([[archives]])
+	- in the [museum]([[museum]]) _Badehaus_ in Waldram
+	- [Wiktionary]([[Wiktionary]])
+	- in the town itself ([street signs]([[street signs]]), [mapping]([[maps]]))
+- Which [[methods]] could I use?

@@ -65,6 +65,7 @@
 * Citing references
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** Ask the person marking your paper which styles you can use.
 ** guides
