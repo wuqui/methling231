@@ -37,6 +37,8 @@
 					- [Obsidian](https://obsidian.md/)
 				- paid: [Notion](https://www.notion.so/)
 	- [[hands-on]]: taking notes using [[logseq]]
+	  id:: 6451ff83-b00d-4123-8162-fc21975095b9
+	  collapsed:: true
 		- TODO install logseq from their [website](https://logseq.com/)
 		- TODO create a new graph
 		- TODO start with the [template]([[student page]]) for your personal page

@@ -1,38 +1,45 @@
-- [[topic]]
+- # [[topic]]
 	- What is a topic?
+	  collapsed:: true
 		- a more general account of what your are interested in
 		- a vague formulation of your project
 		- the area and discipline you are working in
 		- *example*: The language of teenagers
 	- What is a good topic?
+	  collapsed:: true
 		- is not too general but also not too specific
 		- should have further relevance for linguistics
 		- includes new aspects based on state of the art in the relevant theories
 		- interesting and doable
 		- is based on previous knowledge and/or observations
 		- allows for a number of research questions
-- [[title]]
+- # [[title]]
+  collapsed:: true
 	- is the business card of your paper/thesis
 	- must be informative and explicit
 	- must have a reasonable link to the content
 	- must not raise expectations that are not met in the paper
+	- it’s often good to use a subtitle
 	- example: *Teenage talk - a sociolinguistic study of the forms and functions of youth language*
-- Research questions (RQ)
+- # research questions (RQ)
   id:: 62862ae8-dcf3-49f6-b9b4-0a7fe71fdcce
-	- Determine your aim(s)
+	- determine your aim(s)
+	  collapsed:: true
 		- Your topic and a preliminary title in mind,
 		- you work out a set of research questions and/or hypotheses
 		- suitable
 			- to be applied to empirical data (operationalisation) or
 			- to challenge theoretical positions.
-	- The importance of RQ
+	- the importance of RQ
+	  collapsed:: true
 		- RQ is important for choosing & evaluating empirical data and theoretical concepts & literature
 			- > This is because a piece of empirical research is normally designed to address one or more research questions - the answers to which should constitute a 'contribution to knowledge'.
 				- [[Sunderland2010ResearchQuestions]]: p. 10
 		- start out with RQ as a guideline for your project: it can be a rather broadly formulated RQ, but also a number of relatively small and precise RQs
 		- while progressing, refine your RQs, make them more precise or more general or add new ones
 		- don't miss the point where your RQs have to be fixed
-	- How to find RQs
+	- how to find RQs
+	  collapsed:: true
 		- from [[references]]
 			- by coming across a suggestion for an unanswered question
 			- by replicating someone else's
@@ -40,8 +47,11 @@
 		- from a previous work
 		- from observation
 		- from own empirical findings within the study
-	- Types of RQs ([[Sunderland2010ResearchQuestions]]: 13ff.)
-		- RQ is interrogative, addresses a part of the topic; is more exploratory and broader than a hypothesis
+	- types of RQs ([[Sunderland2010ResearchQuestions]]: 13ff.)
+	  collapsed:: true
+		- RQ is
+			- is more exploratory and broader than a hypothesis
+			- interrogative, addresses a part of the topic;
 		- according to its *function* an RQ can be
 			- descriptive
 			- explanatory
@@ -56,26 +66,34 @@
 			- empirical vs. methodological vs. theoretical
 			- researcher-generated vs. participant-generated
 			- empirical vs. speculative
-	- Formulating RQs
+	- how to formulate RQs
 	  id:: 62862ae8-6376-4d82-b9e5-37b518baf1af
-		- be careful with the **wording**: there must be exact definitions for every content word; it has to be understandable by others
+	  collapsed:: true
+		- be careful with the **wording**:
+			- you must have exact definitions for every content word;
+			- it has to be understandable by others
 		- the **number** of RQs is not restricted, start with many and narrow down, but they must be manageable - If in doubt, leave out!
 		- the **sequence** of your RQs may be important
-- Hypotheses
+- # hypotheses
 	- [[definition]]:
+	  collapsed:: true
 		- > Hypothesen sind also Antworten auf die Fragen, die implizit mit dem gewählten Thema aufgeworfen werden. Um als wissenschaftliche Hypothesen zu taugen, müssen sie sich als Ergebnisse ausweisen, die durch ein wissenschaftliches Untersuchungsverfahren gewonnen wurden
 			- (Esselborn-Krumbiegel 2002: 101)
 	- characteristics
+	  collapsed:: true
 		- H is a **prerequisite** for drawing a conclusion;
+		  collapsed:: true
 			- the assumed answer to a question;
 			- generally valid claim;
 			- assumption about real phenomena;
 			- a prediction of what you will find
 		- H are particularly prominent in
+		  collapsed:: true
 			- the natural sciences,
 			- in experimental studies and
 			- more often in quantitative research
-		- special case is a negative form of H: the **Null Hypothesis**,
+		- The **Null Hypothesis**: a special case in negative form
+		  collapsed:: true
 			- stating that the differences observed have occurred only because of chance, i. e. there is no [correlation]([[correlation]]) between two [variables]([[variable]])
 			- Research then aims to reject (or accept) the Null Hypothesis.
 		- H is often more precise than an RQ
@@ -83,11 +101,12 @@
 		- H is a statement about the potential relation between at least two variables
 		- H must be falsifiable (i.e. must not be a tautology)
 		- can be operationalised ([[operationalisation]])
-	- Important criteria for good ((62862ae8-dcf3-49f6-b9b4-0a7fe71fdcce))
+	- important criteria for good [[research questions]] and [[hypotheses]]
+	  collapsed:: true
 		- [[variable]]: "feature of a particular case, and a particular case can take one of a set of possible features" ([[Rasinger2010QuantitativeMethods]]: 53)
-		- *Example*: [[gender]]: variable with two (or more) values, each case (in a class of 20 pupils=cases) can take only one of the possible values.
-		- independent vs. dependent [[variable]]
-		- [[operationalisation]]: translating properties of the studied phenomenon into numerical values, especially in [[quantitative methods][quantitative studies]]
+			- *Example*: [[gender]]: variable with two (or more) values, each case (in a class of 20 pupils=cases) can take only one of the possible values.
+			- independent vs. dependent [[variable]]
+		- [[operationalisation]]: translating properties of the studied phenomenon into numerical values, especially in [[quantitative methods]]
 		- [[reliability]]: study has to be replicable, results have to be consistent, i.e. investigating the same aspects under identical/similar conditions returns the same results
 		- [[validity]]: method has to be appropriate, i.e. the chosen method has to actually measure what it is supposed to measure.
 			- *internal* validity: results of an experiment not skewed by non-intended factors

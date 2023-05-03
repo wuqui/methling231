@@ -1,19 +1,16 @@
-- schedule
-- taking notes using [[logseq]]
-	- create your personal page
-		- TODO install logseq
-		- TODO use page template in: [[student page]]
-		- TODO fill in
-		- TODO upload it to [[LRZ Sync and Share]]
-		- I will integrate it in out graph
-	- an overview of all student pages is available here: [[students]]
-	- intro to logseq
+- # taking notes using [[logseq]]
+	- start taking notes and share your project page
+	  collapsed:: true
+		- {{embed ((6451ff83-b00d-4123-8162-fc21975095b9))}}
+		- an overview of all student pages is available here: [[students]]
+	- intro to [[logseq]]
+		- demo of fundamental features
 		- [documentation](https://docs.logseq.com/#/page/Contents)
-		- video
-- research questions and hypotheses
-	- TODO input from me: [[research questions and hypotheses]]
-- hands-on
-	- TODO try to identify a research question
-	- TODO try to finde students with similar interests
-		- check topic-related pages, e.g. [[corpus linguistics]]
-		- check [student pages]([[students]])
+		- introductory video
+		  collapsed:: true
+			- {{video https://www.youtube.com/watch?v=asEesjv0kTs&pp=ygUNbG9nc2VxIGhvdyB0bw}}
+- # background on research questions and hypotheses
+	- [[research questions and hypotheses]]
+- # application to your research projects
+	- TODO identify a research question and hypotheses
+	- TODO find students with similar interests

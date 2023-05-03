@@ -8,7 +8,7 @@
 	  		|:------:|:---------------------------------------|
 	  		| 19.04. | [[01 - Organisation and introduction]] |
 	  		| 26.04. | [[02 - Taking notes]]                  |
-	  		| 03.05. | research questions and hypotheses      |
+	  		| 03.05. | [[03 - Research questions and hypotheses]]      |
 	  		| 10.05. | research questions and hypotheses      |
 	  		| 17.05. | reference management                   |
 	  		| 24.05. | reference management                   |
@@ -81,6 +81,7 @@
 	- individual and group work on your projects
 - # requirements
   id:: 643f9161-7138-4163-b0f8-3d4062c3d0a2
+  collapsed:: true
 	- active attendance
 	- writing a research proposal
 		- {{embed [[Thesenpapier]]}}
