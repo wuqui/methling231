@@ -1,16 +1,19 @@
+tags:: session
+
 - # taking notes using [[logseq]]
 	- start taking notes and share your project page
-	  collapsed:: true
 		- {{embed ((6451ff83-b00d-4123-8162-fc21975095b9))}}
 		- an overview of all student pages is available here: [[students]]
 	- intro to [[logseq]]
-		- demo of fundamental features
+		- demo of fundamental features: [[logseq/demo]]
 		- [documentation](https://docs.logseq.com/#/page/Contents)
 		- introductory video
 		  collapsed:: true
 			- {{video https://www.youtube.com/watch?v=asEesjv0kTs&pp=ygUNbG9nc2VxIGhvdyB0bw}}
 - # background on research questions and hypotheses
+  collapsed:: true
 	- [[research questions and hypotheses]]
 - # application to your research projects
+  collapsed:: true
 	- TODO identify a research question and hypotheses
 	- TODO find students with similar interests

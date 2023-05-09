@@ -11,7 +11,7 @@
 	- course lecturer? Dr. [[Ulrike Krischke]]
 	- thesis: BA, MA? n/a
 		- supervisor? n/a
-- Which topic (area) do I want to work on?
+- Which [[topic]] (area) do I want to work on?
 	- Language use in South Africa - either how pervasive Afrikaans and Bantu languages and/or English are in the linguistic landscape - which domains/top-down/bottom-up flow OR (not as part of any course) lexical items unique to South African English/where they come from
 - Which [research questions]([[research questions]]) and [hypothesis]([[hypotheses]])h do I want to work on?
 	- How pervasive is the use of Bantu languages/Afrikaans/English in areas, where speakers of this language are in the minority?

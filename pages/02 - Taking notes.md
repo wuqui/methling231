@@ -1,3 +1,5 @@
+tags:: session
+
 - # organisation
   collapsed:: true
 	- registration
@@ -38,13 +40,12 @@
 				- paid: [Notion](https://www.notion.so/)
 	- [[hands-on]]: taking notes using [[logseq]]
 	  id:: 6451ff83-b00d-4123-8162-fc21975095b9
-	  collapsed:: true
-		- TODO install logseq from their [website](https://logseq.com/)
-		- TODO create a new graph
-		- TODO start with the [template]([[student page]]) for your personal page
-			- TODO download `student page.md` ([[Markdown]] format) from our shared folder [here](https://syncandshare.lrz.de/getlink/fiNpRN4FB9181jt53gvaxB/)
-			- TODO copy it the `pages` folder in your graph directory
-			- TODO name it using your second name + first name’s initial, e.g. `WuerschingerQ`
+		- DONE install logseq from their [website](https://logseq.com/)
+		- DONE create a new graph
+		- DONE start with the [template]([[student page]]) for your personal page
+			- DONE download `student page.md` ([[Markdown]] format) from our shared folder [here](https://syncandshare.lrz.de/getlink/fiNpRN4FB9181jt53gvaxB/)
+			- DONE copy it the `pages` folder in your graph directory
+			- DONE name it using your second name + first name’s initial, e.g. `WuerschingerQ`
 		- TODO fill in the template
 			- TODO answer the questions provided
 			- TODO link to important concepts and keywords (e.g. [[corpus linguistics]], [[Twitter]])

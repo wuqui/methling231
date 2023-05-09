@@ -9,7 +9,7 @@
 	  		| 19.04. | [[01 - Organisation and introduction]] |
 	  		| 26.04. | [[02 - Taking notes]]                  |
 	  		| 03.05. | [[03 - Research questions and hypotheses]]      |
-	  		| 10.05. | research questions and hypotheses      |
+	  		| 10.05. | [[04 - Research questions and hypotheses]]      |
 	  		| 17.05. | reference management                   |
 	  		| 24.05. | reference management                   |
 	  		| 31.05. | reading                                |

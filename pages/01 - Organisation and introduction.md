@@ -1,3 +1,5 @@
+tags:: session
+
 - # Organisation
 	- course materials
 	  collapsed:: true
