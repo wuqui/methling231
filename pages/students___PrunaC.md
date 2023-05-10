@@ -1,0 +1,24 @@
+- What do I want to learn about in this course?
+	- I want to learn how to write an accurate project, since the one that I had already done was not pleasant :(
+- Which project do I want to apply the methods to?
+	- I am still trying to figure it out, but I would probably choose a topic related to languages and obviously linguistics.
+	- What is the paper for?
+		- To have the 3 credits
+	- term paper: for which course?
+		- Methods in Linguistics
+	- course topic?
+		-
+	- course lecturer?
+		-
+	- thesis: BA, MA?
+		- BA
+	- supervisor?
+		-
+- Which topic (area) do I want to work on?
+	- I am thinking about writing about the similarities and differences between french and english language.
+- Which research questions and hypothesis do I want to work on?
+	- I don't know yet.
+- Which data could I use?
+	- I could use articles from other research.
+- Which methods could I use?
+	- I could use a corpus linguistics to compare both languages.

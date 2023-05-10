@@ -1,0 +1,21 @@
+- What do I want to learn about in this course?
+	- A variety of methods that could help me with writing term papers/bachelor thesis.
+		- Which project do I want to apply the methods to? What is this paper for?
+		- Term paper in linguistics at the end of this semester.
+			- term paper: for which course?
+				- 13.1 Linguistic Landscapes
+				- course topic? Linguistic Landscapes
+				- course lecturer? Dr. Kriscke
+- thesis: BA, MA?
+	- BA in a year or so.
+	- supervisor?
+		- Not yet.
+- Which topic (area) do I want to work on?
+	- Multilingualism in public spaces.
+		- Which research questions and hypothesis do I want to work on?
+			- 1) Where and in which form do you find multilingualism in public spacs? - Most of the multilingualism phenomena are found in tourist areas.
+			- 2) Why does this phenomenon occur? - Linguistic landscape can change in accordance with the current social and political events (banners in Ukranian in Munich)
+- Which data could I use?
+	- Secondary literature (previous research on the topic), photographs of different linguistic signs.
+- Which methods could I use?
+	- According to Dr. Kriscke questionaires could be of some help; and if we will also be analyzing multilingualism in Internet - corpus analysis.

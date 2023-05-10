@@ -11,9 +11,7 @@ tags:: session
 		  collapsed:: true
 			- {{video https://www.youtube.com/watch?v=asEesjv0kTs&pp=ygUNbG9nc2VxIGhvdyB0bw}}
 - # background on research questions and hypotheses
-  collapsed:: true
 	- [[research questions and hypotheses]]
 - # application to your research projects
-  collapsed:: true
 	- TODO identify a research question and hypotheses
 	- TODO find students with similar interests
