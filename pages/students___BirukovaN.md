@@ -4,7 +4,7 @@
 		- Term paper in linguistics at the end of this semester.
 			- term paper: for which course?
 				- 13.1 Linguistic Landscapes
-				- course topic? Linguistic Landscapes
+				- course topic? [[Linguistic Landscapes]]
 				- course lecturer? Dr. Kriscke
 - thesis: BA, MA?
 	- BA in a year or so.

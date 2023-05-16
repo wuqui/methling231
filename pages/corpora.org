@@ -15,6 +15,9 @@
 *** [[http://corpora.lancs.ac.uk/lancsbox/#:~:text=%23LancsBox%20is%20a%20new%2Dgeneration,Leading%20research%20in%20corpus%20linguistics.][LancsBox]]
 *** WordSmith
 * [[https://www.english-corpora.org/][english-corpora.org]]
+:PROPERTIES:
+:collapsed: true
+:END:
 ** overview of corpora
 :PROPERTIES:
 :collapsed: true

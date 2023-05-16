@@ -10,7 +10,7 @@
 	  		| 26.04. | [[02 - Taking notes]]                  |
 	  		| 03.05. | [[03 - Research questions and hypotheses]]      |
 	  		| 10.05. | [[04 - Research questions and hypotheses]]      |
-	  		| 17.05. | reference management                   |
+	  		| 17.05. | [[05 - Reference management]]                   |
 	  		| 24.05. | reference management                   |
 	  		| 31.05. | reading                                |
 	  		| 07.06. | corpus linguistics                     |

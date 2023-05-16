@@ -1,23 +1,30 @@
 tags:: session
 
 - announcement: [[PAD Fremdsprachenassistenz]]
-- taking notes
+- # taking notes
   collapsed:: true
-	- please continue to work on your personal notes pages
+	- demo of some of the fundamental features: [[logseq/demo]]
+	- you can find an up-to-date version of all course pages [here](https://github.com/wuqui/methling231/tree/main/pages)
+	- please continue to work on your personal notes pages (`student___WuerschingerQ.md`)
 		- add more details
 		- link to relevant concepts/pages (e.g. [[Linguistic Landscapes]], [[maps]])
 	- an overview of all student note pages can be found here: [[students]]
 - # background on [[Linguistic Landscapes]]
+  collapsed:: true
 	- ## what is linguistic landscaping?
 	  collapsed:: true
-		- Linguistic landscaping is a subfield of sociolinguistics that focuses on the analysis of language visibility in public spaces.
+		- Linguistic landscaping is a subfield of [[sociolinguistics]] that focuses on the analysis of language visibility in public spaces.
 		- It investigates how different languages are used, displayed, and represented in signs, advertisements, billboards, street names, and other forms of public communication.
 		- Researchers in linguistic landscaping typically explore questions related to the interaction between language and society.
+	- ## presentation topics
+	  collapsed:: true
+		- [[street names]] of London
+		- [[minority languages]] and ethnolinguistic vitality
 	- ## study areas and [research questions]([[research questions]])
 	  collapsed:: true
-		- ==Language distribution and representation==: What languages are present in a given area, and how are they distributed? How are minority languages represented compared to dominant languages?j
+		- ==Language distribution and representation==: What languages are present in a given area, and how are they distributed? How are minority languages represented compared to dominant languages?
 		- ==Language policy and planning==: How do language policies or regulations affect the linguistic landscape? What role does linguistic landscaping play in language promotion, revitalization, or suppression?
-		- ==Linguistic power dynamics==: How does the linguistic landscape reflect or reinforce power dynamics between different language communities? How do dominant languages and minority languages interact in public spaces?
+		- ==Linguistic [[power]] dynamics==: How does the linguistic landscape reflect or reinforce power dynamics between different language communities? How do dominant languages and minority languages interact in public spaces?
 		- ==Multilingualism and language contact==: How do different languages coexist and interact in the linguistic landscape? How does the presence of multiple languages in public spaces impact language contact, language change, or language attitudes?
 		- ==Identity and belonging==: How does the linguistic landscape shape or reflect individual and collective identities? How do people use language to express their cultural, regional, or national identity in public spaces?
 		- ==Semiotics and meaning-making==: How are different languages used to convey messages in the linguistic landscape? What semiotic resources (e.g., typography, color, images) are employed to create meaning in public texts?
@@ -33,6 +40,9 @@ tags:: session
 		- ==Interviews and surveys==: Researchers may conduct interviews or surveys with local residents, business owners, or other stakeholders to gather their perspectives on the linguistic landscape, language use, language attitudes, and the impact of language policies.
 		- ==Policy documents and regulations==: Analysis of language policies, planning documents, and regulations can provide insight into the official guidelines and rules that shape the linguistic landscape in a given area.
 		- ==Media and online resources==: Researchers may analyze local media, social media, or online resources to better understand public discourse and attitudes towards languages and the linguistic landscape.
+			- relevant for [[Online Pragmatics]]
+			- [[podcasts]]
+			- [[social media]]: [[Instagram]], [[Twitter]], [[Reddit]] (subreddit: `r/Munich`, `r/LiverpoolFC`)
 		- ==Ethnographic data==: In some cases, researchers may use ethnographic methods to explore the connections between the linguistic landscape and local culture, identity, or community practices.
 		- ==Archival materials==: Historical documents, photographs, or maps can be used to investigate the evolution of the linguistic landscape over time and the impact of historical events, demographic changes, or language policies.
 	- ## [[methods]]
@@ -49,18 +59,38 @@ tags:: session
   collapsed:: true
 	- Characterise the features, upsides, and downsides of the following research questions and think of ways to improve them.
 		- How does age influence the accommodation process?
+		  collapsed:: true
+			- narrow down age range
+			- age vs generation
+			- which time? → present-day
+			- which place/society?
+			- “influence” → positive vs negative?
+			- “How …”? → more specific, in which ways?
+			- “accommodation” → specify which aspects
 		- Age and gender influence language use.
+		  collapsed:: true
+			- not a question!
+			- “language use” → too broad
+			- “influence”
+			- age & gender? really? pick one
 		- How do teenagers differ from adults in their use of swear words?
+		  collapsed:: true
+			- adults: narrow down group to age range
+			- “how”
+			- “use”: which usage contexts (e.g. text types, register etc.)? frequency?
+			- definition of swear words
+			- time?
+			- place?
 		- The older the teenagers are the less they use swear words.
 		- To what extent do teenagers accommodate to their peers?
 		- Do teenagers accommodate to their peers?
 		- Age can influence language use or not.
 		- Why do teenagers make use of swear words?
 	- further reading: [[Litosseliti2010ResearchMethods]]
+	  collapsed:: true
 		- [[Sunderland2010ResearchQuestions]]: 13ff.
 		- [[Rasinger2010QuantitativeMethods]]: 53ff.
-- # [[practice]]: Finding research questions and hypothesis
-  collapsed:: true
+- # [[practice]]: finding research questions and hypothesis
 	- Which [[topic]] do I want to work on?
 		- Is it broad enough to be interesting?
 		- Is it narrow enough to be doable?

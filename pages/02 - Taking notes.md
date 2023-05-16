@@ -19,6 +19,7 @@ tags:: session
 		  collapsed:: true
 			- {{embed [[plain text]]}}
 		- networked notes
+		  id:: 6451ff83-844b-4d58-8d7f-95ce3bd20491
 			- the principle
 			  collapsed:: true
 				- [[mental lexicon]]
