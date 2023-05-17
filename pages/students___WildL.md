@@ -1,7 +1,12 @@
 - What do I want to learn about in this course?
 	- how to find a good RQ, how to analyse quantitative data (in [Excel]([[Microsoft Excel]]) maybe), make effective [graphs]([[visualisation]])
 - Which project do I want to apply the methods to?
-	- A term paper on "Ethno-cultural stereotypes in linguistic landscapes"
+	- A term paper piggybacking on my presentation on "Ethno-cultural stereotypes in linguistic landscapes"
+		- Topic: [[Ethno-cultural stereotypes]] English stereotypes more cultural, loosing connection to specific nation vs. other languages still linked to nations/ groups and their stereotypes
+			- interest: [[ads]] using Engish product names or slogans/ [[political graffti]]
+			- Is there enough evidence? -> looking into old ads that do reference American/ UK stereotypes
+			- interest: Growing US critique, does that effect the linguistic landscape of a German city (Munich)?
+			- open for comparison: of present-day and a different point in time (maybe 60s)
 	- What is the paper for?
 	- term paper: for which [course]([[course]])?
 		- The course "[Linguistic landscapes]([[Linguistic Landscapes (Course)]])"
@@ -15,8 +20,9 @@
 	- Apart from Linguistic landscapes (which includes sociolinguistic, semiology etc.),
 	- I am interested in [Corpuslinguistic]([[corpus linguistics]]) and [Phonology]([[phonology]])
 - Which [research questions]([[research questions]]) and [hypothesis]([[hypotheses]]) do I want to work on?
-	- Still unsure
+	- still unsure.
 - Which [data]([[data]]) could I use?
-	- [Photographs]([[photos]]) / diachronic data as in old photographs, inscriptions, paintings, textiles
+	- [Photographs]([[photos]]) of [[ads]]/ diachronic data as in old photographs, inscriptions, paintings, textiles
 - Which [methods]([[methods]]) could I use?
-	- [qualitative analysis]([[qualitative approach]]) of the photographs?
+	- [qualitative analysis]([[qualitative approach]]) or [[quantitative analysis]]of the photographs
+-

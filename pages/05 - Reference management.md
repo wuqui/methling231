@@ -1,14 +1,18 @@
 - # [[research questions and hypotheses]]
+  collapsed:: true
 	- open issues?
 	- updates to the student pages: [[students]]
 - # managing [[references]]
 	- ## finding references
+	  collapsed:: true
 		- ### libraries
+		  collapsed:: true
 			- #### LMU
+			  collapsed:: true
 				- [OPAC](https://www.ub.uni-muenchen.de/suchen/online-katalog/index.html)
 				  collapsed:: true
 					- ![image.png](../assets/image_1684253074342_0.png)
-				- [Databases](https://www.ub.uni-muenchen.de/suchen/datenbanken/index.html)
+				- [databases](https://www.ub.uni-muenchen.de/suchen/datenbanken/index.html)
 				  collapsed:: true
 					- ==Linguistics and Language Behavior Abstracts (LLBA)==: This database focuses on abstracts from approximately 2,000 journals dedicated to the study of linguistics and related disciplines. It also provides summaries of books, book chapters, dissertations, and conference papers.
 					- ==MLA International Bibliography==: Produced by the Modern Language Association, this database includes citations from journals, books, and dissertations focused on literature, language, linguistics, and folklore.
@@ -21,10 +25,12 @@
 					- ==Wiley Online Library==: Wiley publishes a range of peer-reviewed journals in the field of linguistics, including cognitive linguistics, sociolinguistics, and applied linguistics.
 					- ==Ethnologue==: While not a traditional academic database, Ethnologue is a comprehensive reference work cataloging all of the world's known living languages. It's very useful for linguistic ethnography and studies of language diversity.
 			- #### Bayerische Staatsbibliothek (BSB)
+			  collapsed:: true
 				- [OPAC](https://opacplus.bsb-muenchen.de/metaopac/start.do)
 				  collapsed:: true
 					- ![image.png](../assets/image_1684252982990_0.png)
 		- ### web
+		  collapsed:: true
 			- [Google Scholar](https://scholar.google.com/)
 			- [OpenAlex](https://alpha.openalex.org/works)
 			  collapsed:: true
@@ -34,22 +40,31 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1684255384824_0.png)
 		- ### dark web
+		  collapsed:: true
 			- I can't recommend using these platforms ...
+			  collapsed:: true
 				- LibGen
 				- SciHub
 			- research network platforms
+			  collapsed:: true
 				- [academia.edu](https://www.academia.edu/)
 				- [ResearchGate](https://www.researchgate.net/)
 		- ### 'Schneeballprinzip'
+		  collapsed:: true
 			- Find a good, (recent) relevant reference to a topic.
+			  collapsed:: true
 				- Often handbooks provide a high-quality, dense overview.
 			- Check its references.
 			- Check the references’ references.
 		- ### [[AI]]-assisted services
+		  collapsed:: true
 			- [elicit.org](https://elicit.org/)
+			  collapsed:: true
 				- ![image.png](../assets/image_1684255213144_0.png)
 	- ## evaluating references
+	  collapsed:: true
 		- [Tutorial](http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/FindInfo.html) by the University of Berkeley
+		  collapsed:: true
 			- ==authority==
 			  collapsed:: true
 				- Who is the author? What is their point of view?
@@ -69,50 +84,70 @@
 			  collapsed:: true
 				- Did they cite their sources? Who did they cite?
 	- ## citing references
+	  collapsed:: true
 		- Ask the person marking your paper which styles you can use.
 		- ### guides
+		  collapsed:: true
 			- [Stilblatt](https://www.anglistik.uni-muenchen.de/service_downloads/allgemeine_handouts/stilblatt.pdf) Anglistik LMU
 			  id:: 057e5ed5-2c33-4f44-9780-d6662188afd8
+			  collapsed:: true
 			- [Chicago Author-Date Style](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html)
 			  id:: cb8b1a3e-2d59-41b6-9595-7d92eb969270
+			  collapsed:: true
 			- [Unified Style Sheet for Linguistics](https://www.linguisticsociety.org/resource/unified-style-sheet)
 			  id:: b2edbe68-4abe-45f0-8f18-4d0e1202a3f4
+			  collapsed:: true
 			- [APA](https://libguides.murdoch.edu.au/APA)
 		- ### in-text citations
+		  collapsed:: true
 			- usually you should use an author-date format
+			  collapsed:: true
 				- e.g. “Here’s an interesting quote.” (Schmid 2020: 420)
 				- recommended styles
+				  collapsed:: true
 					- ((057e5ed5-2c33-4f44-9780-d6662188afd8))
 					- ((cb8b1a3e-2d59-41b6-9595-7d92eb969270))
 					- ((b2edbe68-4abe-45f0-8f18-4d0e1202a3f4))
 		- ### bibliography
+		  collapsed:: true
 			- needs to be consistent
 			- needs to follow one of the style guides recommended above
 			- must only contain sources you have cited in your paper
 	- ## how to manage references
+	  collapsed:: true
 		- manually
+		  collapsed:: true
 			- recommendation: maintain **1** file with all your bibliographic information
 		- using tools
+		  collapsed:: true
 			- my recommendation: [Zotero](https://www.zotero.org/) (see [below](((6463a7be-7bb4-4623-9c5c-bf1a18a0da2b))) for more information)
 			- other tools
+			  collapsed:: true
 				- [Citavi](https://citavi.com/)
 				- [EndNote](https://endnote.com/)
 				- [Mendeley](https://www.mendeley.com/)
 	- ## how to take notes on references
+	  collapsed:: true
 		- general recommendation:
+		  collapsed:: true
 			- use a tool for ((6451ff83-844b-4d58-8d7f-95ce3bd20491)) (e.g. [[logseq]]) so that you can link notes and thoughts to important concepts (see [[note-taking]])
 		- sustainable note-taking
+		  collapsed:: true
 			- store citation information alongside notes you're taking (e.g. Schmid 2016: 58)
 			- mark everything you copy verbatim to avoid plagiarism
-	- # using [[Zotero]] for managing references
+	- ## how to use [[Zotero]] for managing references
 	  id:: 6463a7be-7bb4-4623-9c5c-bf1a18a0da2b
+	  collapsed:: true
 		- advantages of Zotero
+		  collapsed:: true
 			- free, open-source, cross-platform, collaborative
 			- store references by using, e.g., a [browser extension](https://www.zotero.org/download/)
 			- insert  references automatically via plugins for [Word]([[Microsoft Word]]), [Google Docs]([[Google Docs]]), [Apple Pages]([[Apple Pages]]) etc.
 		- → example demonstration
-	- # [[practice]]: find relevant references for your research questions
-		- goal for number of sources
-			- TODO $\geq$ 2 monographs
-			- TODO $\geq$ 5 papers
-		- take notes!
+- # [[practice]]: find relevant references for your research questions
+  collapsed:: true
+	- goal for number of sources
+	  collapsed:: true
+		- TODO $\geq$ 2 monographs
+		- TODO $\geq$ 5 papers
+	- take notes!
