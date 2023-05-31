@@ -1,7 +1,6 @@
 * Start as early as possible
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 ** *Phase I*: before you even start, write a proposal/abstract/summary of your ideas, main hypotheses, your research diary
 ** *Phase II*: write while you read
@@ -14,12 +13,10 @@
 * Text components
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 ** Introduction
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 *** Fictional dialogue between reader and author (cf. [[Franck2006Technik]]: 143):
 :PROPERTIES:
@@ -28,7 +25,6 @@
 ** Main body
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 *** consists of all the chapters that together result in a comprehensive picture
 *** often starts with a chapter on the state of the art / literature review or on the theoretical background
@@ -39,7 +35,6 @@
 ** Conclusion
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 *** summary
 *** discussion of main findings
@@ -49,7 +44,6 @@
 * Structure
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 ** clear overall structure, logical relation between sections and subsections
 :PROPERTIES:
@@ -69,7 +63,6 @@
 * Self-control
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 ** Adjust hypotheses and/or research questions whenever necessary
 :PROPERTIES:
@@ -88,11 +81,9 @@
 * Writer's block
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 ** You can avoid or mend it if you follow this:
 :PROPERTIES:
-:collapsed: true
 :END:
 *** 1. Start writing as early as possible
 *** 2. Do not compare your own product to those of experienced writers
@@ -106,7 +97,6 @@
 * Style and Readability
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 ** Be concrete! Explain! Do not presuppose too much knowledge on the part of your reader. You are the expert.
 ** Aim for a neutral - scientific - academic style
@@ -122,7 +112,6 @@
 * Tools
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 ** dictionaries
 :PROPERTIES:

@@ -5,7 +5,6 @@
 * References
 * Project plan
 :PROPERTIES:
-:collapsed: true
 :END:
 ** DONE determine research questions and hypotheses
 :PROPERTIES:
