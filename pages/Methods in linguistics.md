@@ -12,7 +12,7 @@
 	  		| 10.05. | [[04 - Research questions and hypotheses]]      |
 	  		| 17.05. | [[05 - Reference management]]                   |
 	  		| 31.05. | [[06 - Reading and self-management]]                                |
-	  		| 07.06. | corpus linguistics                     |
+	  		| 07.06. | [[07 - Corpus linguistics]]                     |
 	  		| 14.06. | corpus linguistics                     |
 	  		| 21.06. | questionnaires & interviews             |
 	  		| 28.06. | analysing data                         |
@@ -21,6 +21,7 @@
 	  		| 19.07. | wrap-up                                |
 - # course description
   id:: 643f2336-49a4-4364-b906-c9632e169d1a
+  collapsed:: true
 	- This course will guide you through the entire process of designing a research project in linguistics, from identifying a [[topic]] to presenting a research project proposal in written form (e.g. for a term paper, your BA thesis or Zulassungsarbeit).
 	- You will be offered practical advice on:
 		- planning and organising your work

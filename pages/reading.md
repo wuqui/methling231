@@ -9,18 +9,24 @@
 - # How to read?
   collapsed:: true
 	- ## Modes of reading
+	  collapsed:: true
 		- **scanning**
+		  collapsed:: true
 			- quick reading, looking for key words
 		- **skimming**
+		  collapsed:: true
 			- cross-reading of the whole text; identification of passages to be read more closely later on
 		- **selective reading**
+		  collapsed:: true
 			- reading only those passages of the text relevant to your topic
 			- the table of contents and/or the index can help you identify relevant passages or with an eletronic source use the search function and look for keywords
 		- **close reading**
+		  collapsed:: true
 			- careful and critical reading of the full text
 			- usually involves taking notes, highlighting, commenting etc.
 			- develop a system that works for you and use it consistently
 		- **creative reading**
+		  collapsed:: true
 			- reading with an open mind for inspiration of own ideas
 		- maybe except for the last type, you should always take notes while reading
 	- ## SQ4R method
@@ -30,10 +36,12 @@
   collapsed:: true
 	- Reading with a specific topic in mind is always tightly linked to writing. For core texts it is advisable to produce an **excerpt**, so that you do not only rewrite the original text, but process the information contained in the literature, formulate it **in your own words** and adjust it to your topic.
 	- ## First reading
+	  collapsed:: true
 		- get a **general picture** and an outline of the text;
 		- note down the **structure** (headings, chapters, sections, paragraphs) on a piece of paper (index cards or first page of a computer file)
 		- indicate **irrelevant parts** of the text
 	- ## Second reading
+	  collapsed:: true
 		- **topic** of each chapter, section, paragraph
 		- **summary** of each chapter, section, paragraph
 		- names of important **authors/sources**, e.g. for further reading
@@ -57,22 +65,22 @@
 - # Strategies for difficult passages
   collapsed:: true
 	- cf. [[Cottrell2013StudySkills]] 168f.
-	- If you have the feeling that you don't understand what you're reading or that you cannot make sense of it, check the following issues:
-		- make sure you have the necessary **theoretical background** for the text  – if not, go back to a more general, introductory text.
-		  logseq.order-list-type:: number
-		- try to briefly **sum up** what you have read after a few sentences
-		  logseq.order-list-type:: number
-		- try to read with a **specific question** in mind in order to get an answer from the text – if 2 or 3 do not work, re-read the passage, read it aloud
-		  logseq.order-list-type:: number
-		- **highlight** and colour-code relevant notions (see [Section](((64762078-9f92-47fb-a7b1-83b8010693eb))) on highlighting)
-		  logseq.order-list-type:: number
-		- Ask questions
-		  logseq.order-list-type:: number
-			- What does the author want to show?
-			- Is there a particular question behind this passage?
-			- Why is the passage relevant?
-			- Is it relevant for my topic?
-			- What do I learn from this?
+		- If you have the feeling that you don't understand what you're reading or that you cannot make sense of it, check the following issues:
+			- make sure you have the necessary **theoretical background** for the text  – if not, go back to a more general, introductory text.
+			  logseq.order-list-type:: number
+			- try to briefly **sum up** what you have read after a few sentences
+			  logseq.order-list-type:: number
+			- try to read with a **specific question** in mind in order to get an answer from the text – if 2 or 3 do not work, re-read the passage, read it aloud
+			  logseq.order-list-type:: number
+			- **highlight** and colour-code relevant notions (see [Section](((64762078-9f92-47fb-a7b1-83b8010693eb))) on highlighting)
+			  logseq.order-list-type:: number
+			- Ask questions
+			  logseq.order-list-type:: number
+				- What does the author want to show?
+				- Is there a particular question behind this passage?
+				- Why is the passage relevant?
+				- Is it relevant for my topic?
+				- What do I learn from this?
 - # Critical evaluation
   collapsed:: true
 	- [[Cottrell2013StudySkills]]: 187–196

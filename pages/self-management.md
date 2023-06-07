@@ -15,7 +15,6 @@
 	  collapsed:: true
 		- they should be **actionable**
 		- they should have a **date**
-		  collapsed:: true
 			- **scheduled**: when are you planning to start working on it?
 			- **deadline**: when does this need to be finished?
 	- make a **plan**
@@ -41,7 +40,6 @@
 		- e.g. [todoist](https://todoist.com/) (thousands of similar apps available)
 		- [[logseq]]
 	- frameworks for 'getting things done'
-	  collapsed:: true
 		- [Getting Things Done](https://gettingthingsdone.com/) by David Allen
 		- [Zen to Done](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/): a simpler version of GTD, by Leo Babauta
 - # making a time plan
@@ -52,13 +50,10 @@
 	  collapsed:: true
 		- calendar
 		- Gantt charts
-		  collapsed:: true
 			- ![](../assets/gantt-chart.png)
 - # further reading
-  collapsed:: true
 	- [[Cottrell2013StudySkills]]: 121–150
 - # [[practice]]: make a time plan
-  collapsed:: true
 	- project agenda
 		- TODO determine topic, research questions, hypotheses
 		- TODO find and read previous literature
@@ -67,6 +62,8 @@
 		- TODO write the paper
 		- TODO revise your writing
 	- options for tools
+		- pen and paper
 		- digital calendar
 		- [TeamGantt](https://www.teamgantt.com/)
+		  collapsed:: true
 			- ![image.png](../assets/image_1685517404107_0.png)
