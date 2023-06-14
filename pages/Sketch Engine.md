@@ -1,5 +1,6 @@
 - URL: https://www.sketchengine.eu/
 - tutorial: [https://wuqui.github.io/SkEtut/](https://wuqui.github.io/SkEtut/)
+  id:: 648031b3-19e9-4eff-b85b-4262f26dfb21
 - can be used for the [[compilation]], [[annotation]], and [analysis]([[corpus analysis]]) of corpora
 - provides a wide range of pre-loaded [[corpora]]
 	- [[English Historical Book Collection (EEBO, ECCO, Evans)]][(link)](https://app.sketchengine.eu/#dashboard?corpname=preloaded%2Fearly_english&corp_info=1): ‘**historical** corpus collection of English books published in the UK and the USA between 1473 and 1820’

@@ -13,7 +13,7 @@
 	  		| 17.05. | [[05 - Reference management]]                   |
 	  		| 31.05. | [[06 - Reading and self-management]]                                |
 	  		| 07.06. | [[07 - Corpus linguistics]]                     |
-	  		| 14.06. | corpus linguistics                     |
+	  		| 14.06. | [[08 - Corpus linguistics]]                     |
 	  		| 21.06. | questionnaires & interviews             |
 	  		| 28.06. | analysing data                         |
 	  		| 05.07. | analysing data                         |
