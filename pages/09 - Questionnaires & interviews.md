@@ -1,3 +1,4 @@
+- [[Thesenpapier]]
 - # corpus linguistics
   collapsed:: true
 	- {{embed ((648967c1-738a-439e-9283-49c8367d16c7))}}
@@ -13,8 +14,8 @@
 			- possible answers
 	- question types
 	  collapsed:: true
+		- Open questions
 		- Closed questions
-		  collapsed:: true
 			- with checklists or rankings
 			  collapsed:: true
 				- ![](../assets/image_1658999604013_0.png)
@@ -34,7 +35,6 @@
 	  collapsed:: true
 		- ![https://cdn1.byjus.com/wp-content/uploads/2019/08/Scales-of-measurement.png](https://cdn1.byjus.com/wp-content/uploads/2019/08/Scales-of-measurement.png)
 		- examples
-		  collapsed:: true
 			- **nominal** scale: names
 			- **ordinal** scale: medals in a race
 			- **interval** scale: weight + backback
@@ -56,7 +56,6 @@
 				- This branch of linguistics is concerned with the **details of language structure** and use at the level of sounds (phonetics and phonology), words (morphology), sentences (syntax), and meaning (semantics). Microlinguistics also includes the study of pragmatics, which examines how context influences the interpretation of meaning.
 				- The primary focus of microlinguistics is on the **individual speaker** and the **intricacies** of the language itself.
 			- **Macrolinguistics**, on the other hand, is a term used to refer to the study of language in a broader or macro context.
-			  collapsed:: true
 				- This branch of linguistics looks at language in relation to other **sociocultural phenomena**.
 				- It includes fields such as
 					- **sociolinguistics** (how language varies and changes in social groups),
@@ -71,6 +70,9 @@
 		- quantitative approach (Labovian paradigm, Trudgill)
 		- social networks approach (Milroy)
 		- qualitative approach
+	- crowd-sourcing
+	  collapsed:: true
+		- e.g. Amazon Mechanical Turk
 	- tools
 	  collapsed:: true
 		- http://www.freeonlinesurveys.com
@@ -127,6 +129,8 @@
 		- **Summarize**
 		  collapsed:: true
 			- At the end of a major point or the end of the conversation, summarize the main points to confirm your understanding.
+			- straw-manning
+			- steel-manning
 		- **Be Patient**
 		  collapsed:: true
 			- Some people need a bit more time to gather their thoughts. Don't rush them, but give them the space to express themselves fully.
@@ -137,37 +141,28 @@
 	  collapsed:: true
 		- If an interviewee's response is unclear or you need more information, use probing questions. These are **follow-up questions** that ask for more detail.
 		- types and examples
-		  collapsed:: true
 			- **Elaboration**
-			  collapsed:: true
 				- "Can you tell me more about that?"
 				- "Could you elaborate on that point?"
 			- **Clarification**
-			  collapsed:: true
 				- "What do you mean when you say...?"
 				- "Could you clarify what you meant by...?"
 			- **Example**
-			  collapsed:: true
 				- "Could you give me an example of that?"
 				- "Can you illustrate that point with a specific instance?"
 			- **Justification**
-			  collapsed:: true
 				- "Why do you think that is?"
 				- "What leads you to that conclusion?"
 			- **Relevance**
-			  collapsed:: true
 				- "How does that relate to...?"
 				- "Can you connect that to...?"
 			- **Extension**
-			  collapsed:: true
 				- "What might be the implications of that?"
 				- "How might that affect...?"
 			- **Hypothetical**
-			  collapsed:: true
 				- "What would happen if...?"
 				- "How would you handle a situation where...?"
 			- **Comparison**
-			  collapsed:: true
 				- "How does this compare to...?"
 				- "What are the differences between this and...?"
 	- **Recording and Transcribing**

@@ -84,7 +84,6 @@
 	- writing a research proposal
 		- {{embed [[Thesenpapier]]}}
 - # assessment
-  collapsed:: true
 	- [[Modulprüfung]]
 	- [[Thesenpapier]]
 - # [[course bibliography]]
