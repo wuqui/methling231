@@ -14,7 +14,7 @@
 	  		| 31.05. | [[06 - Reading and self-management]]                                |
 	  		| 07.06. | [[07 - Corpus linguistics]]                     |
 	  		| 14.06. | [[08 - Corpus linguistics]]                     |
-	  		| 21.06. | questionnaires & interviews             |
+	  		| 21.06. | [[09 - Questionnaires & interviews]]             |
 	  		| 28.06. | analysing data                         |
 	  		| 05.07. | analysing data                         |
 	  		| 12.07. | writing                                |

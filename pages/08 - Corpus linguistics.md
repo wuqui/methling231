@@ -9,6 +9,7 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1686726664290_0.png)
 	- use cases
+	  collapsed:: true
 		- diachronic: the use of *phone* over time
 		  collapsed:: true
 			- [[COHA]]
@@ -22,8 +23,7 @@
 				- ![image.png](../assets/image_1686726885697_0.png)
 		- text types: the use of *smartphone* across text types
 		  collapsed:: true
-			- [[COHA]]
-			  collapsed:: true
+			- [[COCA]]
 				- ![image.png](../assets/image_1686728068479_0.png)
 				- ![image.png](../assets/image_1686728082802_0.png)
 		- regional variation: the use of *autumn* and *fall*
@@ -37,6 +37,7 @@
 				  collapsed:: true
 					- ![image.png](../assets/image_1686728221553_0.png)
 	- [[practice]]
+	  collapsed:: true
 		- Find two words that exhibit significant frequency changes in the 20th century.
 			- one that has *increased* in frequency
 			- one that has *decreased* in frequency
@@ -45,6 +46,6 @@
 			- one that is used more often in *informal* text types
 		- Find a word whose use differs significantly between two countries (e.g. BrE vs AmE).
 - [[practice]]: compile your own corpus using [[Sketch Engine]]
-  collapsed:: true
+  id:: 648967c1-738a-439e-9283-49c8367d16c7
 	- ((648031b3-19e9-4eff-b85b-4262f26dfb21))
 	- example data: [[ebooks]] from [[Gutenberg Project]]: https://www.gutenberg.org/
