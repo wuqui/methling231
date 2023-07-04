@@ -16,7 +16,7 @@
 	  		| 14.06. | [[08 - Corpus linguistics]]                     |
 	  		| 21.06. | [[09 - Questionnaires & interviews]]             |
 	  		| 28.06. | [[10 - Analysing data]]                         |
-	  		| 05.07. | analysing data                         |
+	  		| 05.07. | [[11 - Analysing data]]                         |
 	  		| 12.07. | writing                                |
 	  		| 19.07. | wrap-up                                |
 - # course description
