@@ -3,10 +3,9 @@
 	- {{embed [[10 - Analysing data]]}}
 - [[practice]]: managing corpora with images with [[Microsoft Excel]]
   id:: 64a44ee3-a5dd-4ebe-85ba-779bb49944df
-  collapsed:: true
 	- https://kreativefriseurnamen.tumblr.com/
-	- [friseurnamen.xlsx](../assets/friseurnamen/friseurnamen.xlsx)
-	- folder with images: [friseurnamen/](../assets/friseurnamen/)
+	- spreadsheet: https://1drv.ms/x/s!AvkgNVl9yS6aoQ5L6nbWv-w2G4pE?e=rnQDhe
+	- folder with images: https://1drv.ms/f/s!AvkgNVl9yS6aoQ07v4ueQxWfxLf-?e=f6eoVp
 - [[practice]]: analysing corpus data with [[Microsoft Excel]]
   collapsed:: true
 	- based on [[Sketch Engine]]
