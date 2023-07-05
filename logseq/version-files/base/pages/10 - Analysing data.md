@@ -1,6 +1,8 @@
 - # measures and statistics
   id:: 649bce0a-908c-4a0b-b19b-e9245ea85936
+  collapsed:: true
 	- ## descriptive statistics vs. inferential statistics
+	  collapsed:: true
 		- ![](../assets/image_1659000393105_0.png)
 		- **Descriptive Statistics**
 		  collapsed:: true
@@ -15,7 +17,9 @@
 			- **Interpretation**: Inferential statistics make inferences and predictions about a population based on a sample of data taken from the population in question.
 			- **Excel**: Inferential statistics can be performed in Excel using tools in the Data Analysis add-in, such as t-Tests, ANOVA, regression analysis, and more.
 	- ## normal distribution and standard deviation
+	  collapsed:: true
 		- ![](../assets/image_1659000194146_0.png)
+		  collapsed:: true
 			- also called Gaussian distribution
 		- **Normal Distribution**
 		  collapsed:: true
@@ -26,6 +30,7 @@
 		  collapsed:: true
 			- **Definition**: Variance is a statistical measurement of the spread between numbers in a data set. More specifically, variance measures how far each number in the set is from the mean (average) and thus from every other number in the set.
 			- **Example**: For a dataset of human heights (in cm): 170, 172, 175, 168, 177, the variance calculation would involve several steps:
+			  collapsed:: true
 				- $$ \text{Variance} = \frac{{(170-172.4)^2 + (172-172.4)^2 + (175-172.4)^2 + (168-172.4)^2 + (177-172.4)^2}}{5} $$
 			- **Interpretation**: Variance gives us a measure of how much the data in our set varies. If the variance is high, the data points are spread out over a wide range of values. If the variance is low, the data points are close to the mean.
 			- **[[Microsoft Excel]]**: To calculate variance in Microsoft Excel, you can use the `VAR.P` function for population variance or `VAR.S` for sample variance.
@@ -33,6 +38,7 @@
 		  collapsed:: true
 			- **Definition**: The standard deviation is a measure of the amount of variation or dispersion of a set of values. A low standard deviation indicates that the values tend to be close to the mean, while a high standard deviation indicates that the values are spread out over a wider range.
 			- **Example**: For the same height dataset, calculating the standard deviation would give us a quantitative measure of how much the heights deviate from the average. The calculation involves several steps, and it's the square root of the variance.
+			  collapsed:: true
 				- $$ \text{Standard Deviation} = \sqrt{\text{Variance}} = \sqrt{\frac{{(170-172.4)^2 + (172-172.4)^2 + (175-172.4)^2 + (168-172.4)^2 + (177-172.4)^2}}{5}} $$
 			- **Interpretation**: The standard deviation is a more robust measure of spread than the range as it takes into account how each data point relates to the mean. A high standard deviation means the data are spread out over a large range of values, and vice versa.
 			- **[[Microsoft Excel]]**: To calculate standard deviation in Microsoft Excel, you can use the `STDEV.P` function for population standard deviation or `STDEV.S` for sample standard deviation.
@@ -44,6 +50,7 @@
 		  collapsed:: true
 			- **Definition**: The average of a set of numbers, calculated by adding up all the numbers and dividing by the quantity of numbers.
 			- **Example**: For sentence lengths of 5, 8, 10, 10, and 35 words, the mean is calculated as follows:
+			  collapsed:: true
 				- $$ \text{Mean} = \frac{{5+8+10+10+35}}{5} = 13.6 \text{ words} $$
 			- **Interpretation**: The mean is influenced by outliers and can provide a sense of overall word usage, but it may not accurately represent the most typical sentence length in the presence of extreme values.
 		- **Median**
@@ -62,12 +69,15 @@
 			- The median and mode are less sensitive to outliers and can often provide a better sense of the most typical values in a skewed dataset.
 			- Depending on the nature and distribution of the data, one measure may be more appropriate to use over the others.
 	- ## significance testing
+	  collapsed:: true
 		- **Definition**: Significance testing is a statistical method that tests a hypothesis. It determines whether the observed data deviate from what is expected under the null hypothesis (H0), which generally states that there is no effect or difference.
 		- **Example**: In the previous linguistics study, a significance test could be used to determine if there's a significant difference in the number of requests made by males and females. The null hypothesis might be that there is no difference in the number of requests made by males and females. The alternate hypothesis (H1) would be that there is a difference.
 		- **Interpretation**: The result of a significance test is expressed as a p-value. A small p-value (typically ≤ 0.05) indicates strong evidence against the null hypothesis, so you reject the null hypothesis. A large p-value (> 0.05) indicates weak evidence against the null hypothesis, so you fail to reject the null hypothesis.
 		- **[[Microsoft Excel]]**: Significance tests can be performed in Excel using the Data Analysis add-in, which includes a variety of tests such as t-Tests and ANOVA.
 	- ## true and false positives
+	  collapsed:: true
 		- **Example**: In the context of a corpus search query, suppose we're looking to find sentences that contain requests. Our "test" is the search query we're using. A "positive" result is when our query correctly identifies a sentence, whether it's identifying a request or correctly identifying a non-request.
+		  collapsed:: true
 			- **True Positive (TP)**: This occurs when the search query correctly identifies a sentence as containing a request. This is a successful detection of a real request.
 			- **False Positive (FP)**: This happens when the search query incorrectly identifies a sentence as containing a request, but it doesn't. This is a "false alarm" — the test mistakenly signaled a request where there wasn't one.
 			- **True Negative (TN)**: This is when the search query correctly identifies a sentence as not containing a request. This means the test correctly identified a sentence without a request.
@@ -88,6 +98,7 @@
 				- query for `[lemma="phone"]` in the [[Gutenberg English 2020]] corpus ([query link](https://app.sketchengine.eu/#concordance?corpname=preloaded%2Fgutenberg20_en&tab=advanced&queryselector=cql&attrs=word&viewmode=kwic&attr_allpos=all&refs_up=0&shorten_refs=0&glue=1&gdexcnt=300&show_gdex_scores=0&itemsPerPage=20&structs=s%2Cg&refs=%3Dbook.title&default_attr=lemma&cql=%5Blemma%3D%22phone%22%5D&showresults=1&showTBL=0&tbl_template=&gdexconf=&f_tab=advanced&f_showrelfrq=1&f_showperc=1&f_showreldens=0&f_showreltt=0&c_customrange=0&operations=%5B%7B%22name%22%3A%22cql%22%2C%22arg%22%3A%22%5Blemma%3D%5C%22phone%5C%22%5D%22%2C%22query%22%3A%7B%22queryselector%22%3A%22cqlrow%22%2C%22cql%22%3A%22%5Blemma%3D%5C%22phone%5C%22%5D%22%2C%22default_attr%22%3A%22lemma%22%7D%2C%22id%22%3A2819%7D%5D))
 					- ![image.png](../assets/image_1687933692771_0.png)
 - # organising your data: *tidy data* (Hadley Wickham)
+  collapsed:: true
 	- **Each variable forms a column**
 	  collapsed:: true
 		- **Definition**: In tidy data, each variable should have its own column. This allows for clear visibility and easy manipulation of individual variables.
@@ -114,23 +125,28 @@
 		- **Example**: In Excel, this might mean restructuring data so that there are more rows and fewer columns. For example, instead of having separate columns for "Number of Requests by Men" and "Number of Requests by Women", you could have one column for "Gender" and one column for "Number of Requests".
 	- DRY: Don’t repeat yourself
 - # general tips for using [[Microsoft Excel]]
+  collapsed:: true
 	- use **new tabs** for your analyses to keep raw data and analysis separate
 	- create **tables**
 	- **pivot tables** are very powerful for analysing your data
 	- **pivot charts** give you ready visualisations of the data you analyse in a pivot table
+	  collapsed:: true
 		- ![](../assets/image_1659092123412_0.png)
 - # [[practice]]: using [[Sketch Engine]] and [[Microsoft Excel]] for studying clipping
+  collapsed:: true
 	- background: [[Hilpert2023Meaning]]
 	  collapsed:: true
 		- ![image.png](../assets/image_1687937036489_0.png)
 id:: c6190a47-ca17-4d77-89fb-e8f8c72d6f2c
 	- for example pairs of (1) source words (e.g. *brother*) and (2) clipped form (e.g. *bro*)
 		- query specifies
+		  collapsed:: true
 			- lexeme-based: both *brother* and *brothers*
 			- word class
 		- determine their [[frequency]]
 id:: ab462d4c-710b-4366-992c-93e25c855823
 			- total frequency in the [[Timestamped JSI web corpus 2014-2021 English]]
+			  collapsed:: true
 				- determine frequency
 					- [[absolute frequency]]
 					- [[relative frequency]]

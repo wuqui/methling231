@@ -1,16 +1,22 @@
 - recap: fundamentals of analysing data
+  collapsed:: true
 	- {{embed [[10 - Analysing data]]}}
 - [[practice]]: managing corpora with images with [[Microsoft Excel]]
+  id:: 64a44ee3-a5dd-4ebe-85ba-779bb49944df
+  collapsed:: true
 	- https://kreativefriseurnamen.tumblr.com/
 	- [friseurnamen.xlsx](../assets/friseurnamen/friseurnamen.xlsx)
 	- folder with images: [friseurnamen/](../assets/friseurnamen/)
 - [[practice]]: analysing corpus data with [[Microsoft Excel]]
+  collapsed:: true
 	- based on [[Sketch Engine]]
+	  collapsed:: true
 		- [[diachronic]] [[frequency]] in the [[Gutenberg English 2020]] corpus: `the N BE that` ([[Schmid2015Entrenchment]])
 			- abstract
 			  collapsed:: true
 				- ((fee260ec-d356-41d3-b525-3c88b7df14fb))
 			- query
+			  collapsed:: true
 				- ![image.png](../assets/image_1688491515745_0.png)
 				- [query link](https://app.sketchengine.eu/#concordance?corpname=preloaded%2Fgutenberg20_en&tab=advanced&queryselector=cql&attrs=word&viewmode=kwic&attr_allpos=all&refs_up=0&shorten_refs=0&glue=1&gdexcnt=300&show_gdex_scores=0&itemsPerPage=20&structs=s%2Cg&refs=%3Dbook.title&default_attr=lemma&cql=%5Blemma%3D%22the%22%5D%20%5Btag%3D%22N.*%22%5D%20%5Blemma%3D%22be%22%5D%20%5Blemma%3D%22that%22%5D&showresults=1&showTBL=0&tbl_template=undefined&gdexconf=undefined&cb=slemma%3D%22the%22%23stag%3D%22N.*%22%23slemma%3D%22be%22%23slemma%3D%22that%22&f_tab=advanced&f_showrelfrq=1&f_showperc=1&f_showreldens=0&f_showreltt=0&c_customrange=0&operations=%5B%7B%22name%22%3A%22cql%22%2C%22arg%22%3A%22%5Blemma%3D%5C%22the%5C%22%5D%20%5Btag%3D%5C%22N.*%5C%22%5D%20%5Blemma%3D%5C%22be%5C%22%5D%20%5Blemma%3D%5C%22that%5C%22%5D%22%2C%22query%22%3A%7B%22queryselector%22%3A%22cqlrow%22%2C%22cql%22%3A%22%5Blemma%3D%5C%22the%5C%22%5D%20%5Btag%3D%5C%22N.*%5C%22%5D%20%5Blemma%3D%5C%22be%5C%22%5D%20%5Blemma%3D%5C%22that%5C%22%5D%22%2C%22default_attr%22%3A%22lemma%22%7D%2C%22id%22%3A308%7D%5D)
 				- ![image.png](../assets/image_1688491675827_0.png)
@@ -18,12 +24,16 @@
 				- export to [[Microsoft Excel]]
 			- sheet: https://1drv.ms/x/s!AvkgNVl9yS6aoQmE_mZMQVoib6Hh
 				- filtering `> 1800`
+				  collapsed:: true
 					- ![image.png](../assets/image_1688492436783_0.png)
 				- grouping
+				  collapsed:: true
 					- ![image.png](../assets/image_1688492484676_0.png)
 				- bar chart
+				  collapsed:: true
 					- ![image.png](../assets/image_1688492535712_0.png)
 	- based on [[english-corpora.org]]
+	  collapsed:: true
 		- [[language change]] among modal verbs ([[Hilpert2015Grammatical]])
 			- [[Microsoft Excel]] spreadsheet: https://1drv.ms/x/s!AvkgNVl9yS6aoQtzvHHut-cqJceL
 			- theoretical background
