@@ -7,7 +7,7 @@
 	- spreadsheet: https://1drv.ms/x/s!AvkgNVl9yS6aoQ5L6nbWv-w2G4pE?e=rnQDhe
 	- folder with images: https://1drv.ms/f/s!AvkgNVl9yS6aoQ07v4ueQxWfxLf-?e=f6eoVp
 - [[practice]]: analysing corpus data with [[Microsoft Excel]]
-  collapsed:: true
+  id:: 64a45395-0719-4509-8875-9e2bb910dd6c
 	- based on [[Sketch Engine]]
 	  collapsed:: true
 		- [[diachronic]] [[frequency]] in the [[Gutenberg English 2020]] corpus: `the N BE that` ([[Schmid2015Entrenchment]])

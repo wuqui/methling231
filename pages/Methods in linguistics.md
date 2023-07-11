@@ -17,7 +17,7 @@
 	  		| 21.06. | [[09 - Questionnaires & interviews]]             |
 	  		| 28.06. | [[10 - Analysing data]]                         |
 	  		| 05.07. | [[11 - Analysing data]]                         |
-	  		| 12.07. | writing                                |
+	  		| 12.07. | [[12 - Writing]]                                |
 	  		| 19.07. | wrap-up                                |
 - # course description
   id:: 643f2336-49a4-4364-b906-c9632e169d1a
