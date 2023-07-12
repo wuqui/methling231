@@ -3,7 +3,6 @@
 	- {{embed ((64a44ee3-a5dd-4ebe-85ba-779bb49944df))}}
 	- {{embed ((64a45395-0719-4509-8875-9e2bb910dd6c))}}
 - [[writing]]
-  collapsed:: true
 	- start early
 	  collapsed:: true
 		- *Phase I*: before you even start, write a proposal/abstract/summary of your ideas, main hypotheses, your research diary
@@ -17,7 +16,6 @@
 	- develop a writing habit
 	  collapsed:: true
 		- Advantages of a Writing Habit
-		  collapsed:: true
 			- Regular Practice
 				- Writing regularly helps to improve your writing skills over time. The more you write, the better you become at expressing your thoughts clearly and concisely.
 			- Consistency
@@ -29,33 +27,24 @@
 			- Enhanced Research Skills
 				- A consistent writing habit often involves regular reading and research, which can improve your ability to find and understand relevant literature.
 		- How to Establish a Writing Habit
-		  collapsed:: true
 			- Set a Schedule
-			  collapsed:: true
 				- Dedicate a specific time each day for writing. This could be early in the morning, during lunch breaks, or in the evening.
 			- Start Small
-			  collapsed:: true
 				- Don't overwhelm yourself by trying to write for hours at a time. Start with short, manageable writing sessions and gradually increase the time as you get comfortable.
 			- Set Goals
-			  collapsed:: true
 				- Have clear, achievable goals for each writing session. This could be writing a certain number of words, completing a section of your paper, or revising a chapter.
 			- Create a Conducive Environment
-			  collapsed:: true
 				- Find a quiet, comfortable place where you can focus on your writing without distractions.
 			- Use Tools
-			  collapsed:: true
 				- Use writing tools and apps that can help you stay organized, check your grammar, and keep track of your sources.
 			- Seek Feedback
-			  collapsed:: true
 				- Regularly share your work with others and seek their feedback. This can provide valuable insights and help you improve your writing.
 	- text components
 	  collapsed:: true
 		- Introduction
-		  collapsed:: true
 			- Fictional dialogue between reader and author (cf. [Franck2006Technik](Franck2006Technik): 143):
 				- ![image](../assets/image_1656580397310_0.png)
 		- Main body
-		  collapsed:: true
 			- consists of all the chapters that together result in a comprehensive picture
 			- often starts with a chapter on the state of the art / literature review or on the theoretical background
 			- often has a section on definitions of necessary theoretical concepts and notions
@@ -63,7 +52,6 @@
 			- includes chapters on methods, material
 			- mostly ends with a chapter on the results of the study and an interpretation
 		- Conclusion
-		  collapsed:: true
 			- summary
 			- discussion of main findings
 			- limitations, outlook (future work)
@@ -74,7 +62,6 @@
 		- clear overall structure, logical relation between sections and subsections
 		- balanced relation theoretical - empirical and between chapters
 		- table-of-content-types:
-		  collapsed:: true
 			- chronological
 			- systematic
 				- sections have the same value for the topic; e.g. central issues, functions, theories  & concepts
@@ -181,6 +168,7 @@
 		- collocations
 		  collapsed:: true
 			- [ozdic.com](https://ozdic.com/)
+			- [netspeak](https://netspeak.org)
 		- spelling and grammar checking
 		  collapsed:: true
 			- [Grammarly](https://www.grammarly.com/)
@@ -205,6 +193,8 @@
 		- ((64ad8336-8140-499f-8e5b-8ecbdd2e15be))
 		- ((64ad84f6-0a26-48bc-ad68-94ed11e57849))
 		- ((64ad8573-b0e5-438d-86ab-34880f5084a2))
+		- ((64af04f2-4293-4859-8e5e-709414724f1d))
+		- ((64af058a-7fa0-455f-9427-e1b6468a8412))
 - next week
   collapsed:: true
 	- open issues?

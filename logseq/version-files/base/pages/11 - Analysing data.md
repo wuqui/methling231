@@ -9,7 +9,6 @@
 - [[practice]]: analysing corpus data with [[Microsoft Excel]]
   id:: 64a45395-0719-4509-8875-9e2bb910dd6c
 	- based on [[Sketch Engine]]
-	  collapsed:: true
 		- [[diachronic]] [[frequency]] in the [[Gutenberg English 2020]] corpus: `the N BE that` ([[Schmid2015Entrenchment]])
 			- abstract
 			  collapsed:: true
@@ -32,7 +31,6 @@
 				  collapsed:: true
 					- ![image.png](../assets/image_1688492535712_0.png)
 	- based on [[english-corpora.org]]
-	  collapsed:: true
 		- [[language change]] among modal verbs ([[Hilpert2015Grammatical]])
 			- [[Microsoft Excel]] spreadsheet: https://1drv.ms/x/s!AvkgNVl9yS6aoQtzvHHut-cqJceL
 			- theoretical background
