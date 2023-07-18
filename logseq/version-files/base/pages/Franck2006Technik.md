@@ -1,2 +1,2 @@
 - [[course bibliography]]
-    - Franck, Norbert & Joachim Stary (2006), Die Technik wissenschaftlichen Arbeitens. Eine praktische Anleitung, Paderborn: Schöningh.
+	- Franck, Norbert & Joachim Stary (2006), Die Technik wissenschaftlichen Arbeitens. Eine praktische Anleitung, Paderborn: Schöningh.

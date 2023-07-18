@@ -14,37 +14,51 @@
 		- *Phase VII*: have your text proof-read by a friend and/or a native speaker
 		- *Phase VIII*: work in corrections and comments and make a final draft, print it and proof-read it a last time
 	- develop a writing habit
+	  id:: 64ad829f-41b9-4d5c-9105-376d416c09fc
 	  collapsed:: true
 		- Advantages of a Writing Habit
 			- Regular Practice
+			  collapsed:: true
 				- Writing regularly helps to improve your writing skills over time. The more you write, the better you become at expressing your thoughts clearly and concisely.
 			- Consistency
+			  collapsed:: true
 				- A consistent writing habit can help you make steady progress on your papers and assignments, reducing the stress of last-minute work.
 			- Improved Understanding
+			  collapsed:: true
 				- Writing about a topic can enhance your understanding of it. It forces you to think deeply about the subject and articulate your thoughts and arguments clearly.
 			- Development of Critical Thinking
+			  collapsed:: true
 				- Regular writing encourages critical thinking as it requires you to evaluate information, make connections, and form arguments.
 			- Enhanced Research Skills
+			  collapsed:: true
 				- A consistent writing habit often involves regular reading and research, which can improve your ability to find and understand relevant literature.
 		- How to Establish a Writing Habit
 			- Set a Schedule
+			  collapsed:: true
 				- Dedicate a specific time each day for writing. This could be early in the morning, during lunch breaks, or in the evening.
 			- Start Small
+			  collapsed:: true
 				- Don't overwhelm yourself by trying to write for hours at a time. Start with short, manageable writing sessions and gradually increase the time as you get comfortable.
 			- Set Goals
+			  collapsed:: true
 				- Have clear, achievable goals for each writing session. This could be writing a certain number of words, completing a section of your paper, or revising a chapter.
 			- Create a Conducive Environment
+			  collapsed:: true
 				- Find a quiet, comfortable place where you can focus on your writing without distractions.
 			- Use Tools
+			  collapsed:: true
 				- Use writing tools and apps that can help you stay organized, check your grammar, and keep track of your sources.
 			- Seek Feedback
+			  collapsed:: true
 				- Regularly share your work with others and seek their feedback. This can provide valuable insights and help you improve your writing.
 	- text components
 	  collapsed:: true
 		- Introduction
+		  collapsed:: true
 			- Fictional dialogue between reader and author (cf. [Franck2006Technik](Franck2006Technik): 143):
 				- ![image](../assets/image_1656580397310_0.png)
 		- Main body
+		  collapsed:: true
 			- consists of all the chapters that together result in a comprehensive picture
 			- often starts with a chapter on the state of the art / literature review or on the theoretical background
 			- often has a section on definitions of necessary theoretical concepts and notions
@@ -52,6 +66,7 @@
 			- includes chapters on methods, material
 			- mostly ends with a chapter on the results of the study and an interpretation
 		- Conclusion
+		  collapsed:: true
 			- summary
 			- discussion of main findings
 			- limitations, outlook (future work)
@@ -74,6 +89,7 @@
 			- comparative
 				- establish relations between various aspects
 			- empirical
+			  id:: 64ad7d2f-fcd8-4c49-a57b-946b3984a34a
 				- Introduction
 					- This section should provide an overview of the topic, the context, and the relevance of the research. It should also include the research question or hypothesis, and a brief summary of what the paper will cover.
 				- Theoretical Background
@@ -90,17 +106,20 @@
 					- This section should provide a summary of your research, the main findings, and the implications of these findings. It should also restate the relevance of your research and provide a final thought or reflection on the study.
 	- style and readability
 	  collapsed:: true
-		- Be concrete! Explain! Do not presuppose too much knowledge on the part of your reader. You are the expert.
-		- Aim for a neutral – scientific – academic style
-		- Aim for understandable – precise – clear formulations
+		- be concrete and explain
+		- do not presuppose too much prior knowledge on the part of your reader
+		- aim for a neutral – scientific – academic style
+		- aim for understandable – precise – clear formulations
 		- *I* vs *one* vs *we* vs *the author*
-		- Delete superfluous information – include necessary information
-		- Avoid long and complicated sentences
-		- Put the main thing in the main clause
-		- Use full stops
+		- delete superfluous information – include necessary information
+		- avoid long and complicated sentences
+		- use topic sentences
+		- use examples
+		- put the main thing in the main clause
+		- use full stops
 		- Avoid fillers
-		- Use active instead of passive
-		- Use verbs instead of nouns
+		- use active instead of passive
+		- use verbs instead of nouns
 	- avoiding writer's block
 	  collapsed:: true
 		- Start writing as early as possible
@@ -113,6 +132,7 @@
 		- Talk to someone (anyone) about your problems
 		- Produce difficult parts and/or revise in handwriting
 	- separating writing from editing
+	  id:: 64ad85a7-6160-48e1-87f3-04010036c02e
 	  collapsed:: true
 		- Advantages of Separating Writing from Editing
 		  collapsed:: true
@@ -157,7 +177,7 @@
 			- Make sure you are explicit about relevant notions and give evidence and illustrations for your claims.
 			- Control for the consistent use of linguistic conventions and a correct referencing throughout your paper.
 	- tools
-	  collapsed:: true
+	  id:: 64ad7c6d-6063-4529-b7de-3421d62a34db
 		- dictionaries
 		  collapsed:: true
 			- [linguee](https://www.linguee.de/)
@@ -178,7 +198,6 @@
 			  collapsed:: true
 				- LanguageTool is a multilingual spelling, style, and grammar checker that helps correct or paraphrase texts. It offers a wide range of language support and can be integrated into various platforms like browsers, word processors, and email clients. LanguageTool is particularly useful for checking grammar and spelling in over 20 languages, and it also provides style and punctuation suggestions. However, as with any automated tool, it's important to review and understand the changes it suggests to ensure they align with your original intent and academic standards.
 		- AI-based tools
-		  collapsed:: true
 			- [QuillBot](https://quillbot.com/)
 			  collapsed:: true
 				- QuillBot is an AI-powered paraphrasing tool that can help students and professionals rewrite, edit, and change the tone of their text to improve clarity and comprehension. It can be used to rephrase any text in a variety of ways, ensuring you use the appropriate vocabulary, tone, and style for any occasion. It also offers a grammar checker, a plagiarism checker, and a summarizer among other features. However, it's important to use it responsibly and ensure that the final work is original and properly cited.
@@ -188,6 +207,7 @@
 			- [ChatGPT](https://openai.com/chatgpt)
 			  collapsed:: true
 				- ChatGPT by OpenAI is an AI model that can generate human-like text based on the input it's given. It can be used as a tool to help with brainstorming, drafting and editing content, and learning new topics. It's capable of understanding context and providing detailed responses, making it a useful tool for academic writing. However, it's important to use it as a tool to assist your writing process, rather than relying on it to generate your entire paper. Always review and edit the suggestions provided by ChatGPT to ensure they meet your academic standards.
+			- [DeepLWrite](https://www.deepl.com/write)
 	- further reading
 	  collapsed:: true
 		- ((64ad8336-8140-499f-8e5b-8ecbdd2e15be))

@@ -18,7 +18,7 @@
 	  		| 28.06. | [[10 - Analysing data]]                         |
 	  		| 05.07. | [[11 - Analysing data]]                         |
 	  		| 12.07. | [[12 - Writing]]                                |
-	  		| 19.07. | wrap-up                                |
+	  		| 19.07. | [[13 - Wrap-up]]                                |
 - # course description
   id:: 643f2336-49a4-4364-b906-c9632e169d1a
   collapsed:: true
@@ -79,7 +79,6 @@
 	- individual and group work on your projects
 - # requirements
   id:: 643f9161-7138-4163-b0f8-3d4062c3d0a2
-  collapsed:: true
 	- active attendance
 	- writing a research proposal
 		- {{embed [[Thesenpapier]]}}
